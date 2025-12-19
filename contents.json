@@ -1,6 +1,26 @@
 {
   "android_play_store_link": "",
   "ios_app_store_link": "",
+  
+  "banners": [
+    {
+      "image_file": "banner_1.png",
+      "link_url": "https://www.google.com"
+    },
+    {
+      "image_file": "banner_2.png",
+      "link_url": "https://www.youtube.com"
+    },
+    {
+      "image_file": "banner_3.png",
+      "link_url": "https://www.instagram.com"
+    }
+  ],
+
+
+  
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
   "sticker_packs": [
     {
       "identifier": "01_Kirby",
@@ -30,6 +50,7 @@
     }
   ]
 }
+
 
 
 
