@@ -15,6 +15,9 @@
       "link_url": "https://www.instagram.com"
     }
   ],
+
+// Area de stickers
+  
   "sticker_packs": [
     {
       "identifier": "01_Kirby",
@@ -64,8 +67,69 @@
         }
       ]
     }
+        // Para agrega mas, solo incluye una , en la } anterior 
+    
+  ],
+
+
+// Area de wallpapers
+
+  "wallpapers": [
+    {
+      "identifier": "wall_01",
+      "name": "Selva Nintendo",
+      "image_file": "wall_01.jpg", 
+      "publisher": "UnTal3D"
+    },
+    {
+      "identifier": "wall_02",
+      "name": "Fondo Rojo",
+      "image_file": "wall_02.jpg",
+      "publisher": "UnTal3D"
+    },
+    {
+      "identifier": "wall_03",
+      "name": "Fondo Rojo",
+      "image_file": "wall_03.jpg",
+      "publisher": "UnTal3D"
+    },
+    {
+      "identifier": "wall_04",
+      "name": "Fondo Rojo",
+      "image_file": "wall_04.jpg",
+      "publisher": "UnTal3D"
+    },
+    {
+      "identifier": "wall_05",
+      "name": "Fondo Rojo",
+      "image_file": "wall_05.jpg",
+      "publisher": "UnTal3D"
+    },
+    {
+      "identifier": "wall_06",
+      "name": "Fondo Rojo",
+      "image_file": "wall_06.jpg",
+      "publisher": "UnTal3D"
+    },
+    {
+      "identifier": "wall_07",
+      "name": "Fondo Rojo",
+      "image_file": "wall_07.jpg",
+      "publisher": "UnTal3D"
+    },
+    {
+      "identifier": "wall_08",
+      "name": "Fondo Rojo",
+      "image_file": "wall_08.jpg",
+      "publisher": "UnTal3D"
+    }
+    // Para agrega mas, solo incluye una , en la } anterior 
   ]
 }
+
+  
+}
+
 
 
 
