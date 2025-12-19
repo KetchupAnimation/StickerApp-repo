@@ -1,0 +1,30 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "01_Kirby",
+      "name": "Kirby Pack",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Kirby.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Kirby_01.png" }, { "image_file": "Kirby_02.png" }, { "image_file": "Kirby_03.png" },
+        { "image_file": "Kirby_04.png" }, { "image_file": "Kirby_05.png" }, { "image_file": "Kirby_06.png" },
+        { "image_file": "Kirby_07.png" }, { "image_file": "Kirby_08.png" }, { "image_file": "Kirby_09.png" },
+        { "image_file": "Kirby_10.png" }, { "image_file": "Kirby_11.png" }, { "image_file": "Kirby_12.png" },
+        { "image_file": "Kirby_13.png" }, { "image_file": "Kirby_14.png" }, { "image_file": "Kirby_15.png" },
+        { "image_file": "Kirby_16.png" }, { "image_file": "Kirby_17.png" }, { "image_file": "Kirby_18.png" },
+        { "image_file": "Kirby_19.png" }, { "image_file": "Kirby_20.png" }, { "image_file": "Kirby_21.png" },
+        { "image_file": "Kirby_22.png" }, { "image_file": "Kirby_23.png" }, { "image_file": "Kirby_24.png" },
+        { "image_file": "Kirby_25.png" }, { "image_file": "Kirby_26.png" }, { "image_file": "Kirby_27.png" },
+        { "image_file": "Kirby_28.png" }, { "image_file": "Kirby_29.png" }
+      ]
+    }
+  ]
+}
