@@ -7,9 +7,9 @@
       "name": "Kirby Pack",
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Kirby.png",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
+      "publisher_email": "info@untal3d.com",
+      "publisher_website": "https://untal3d.com/",
+      "privacy_policy_website": "https://drive.google.com/file/d/1p77FZEdfL2miP3Y5_7KFxfum0l5-9zET/view?usp=drive_link",
       "license_agreement_website": "",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -29,6 +29,7 @@
   ]
 
 }
+
 
 
 
