@@ -41,31 +41,10 @@
           "emojis": ["😀"]
         }
       ]
-    },
-    { 
-      "identifier": "02_Splatoon2",
-      "name": "Splatoon 2",
-      "publisher": "Nintendo Fan",
-      "tray_image_file": "tray_Splatoon.png",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "stickers": [
-        {
-          "image_file": "SP_01.webp",
-          "emojis": ["😀"]
-        },
-        {
-          "image_file": "SP_02.webp",
-          "emojis": ["😀"]
-        },
-        {
-          "image_file": "SP_03.webp",
-          "emojis": ["😀"]
-        }
-      ]
     }
   ]
 }
+
 
 
 
