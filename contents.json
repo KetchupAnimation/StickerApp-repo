@@ -16,7 +16,10 @@
     }
   ],
 
-// Area de stickers
+
+
+
+  
   
   "sticker_packs": [
     {
@@ -67,12 +70,15 @@
         }
       ]
     }
-        // Para agrega mas, solo incluye una , en la } anterior 
+        
     
   ],
 
 
-// Area de wallpapers
+
+
+
+  
 
   "wallpapers": [
     {
@@ -123,12 +129,12 @@
       "image_file": "wall_08.jpg",
       "publisher": "UnTal3D"
     }
-    // Para agrega mas, solo incluye una , en la } anterior 
   ]
 }
 
   
 }
+
 
 
 
