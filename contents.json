@@ -6,7 +6,7 @@
       "identifier": "01_Kirby",
       "name": "Kirby Pack",
       "publisher": "UnTal3D",
-      "tray_image_file": "tray_Kirby.png",
+      "tray_image_file": "portada_Kirby.png",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -27,4 +27,5 @@
       ]
     }
   ]
+
 }
