@@ -52,20 +52,21 @@
       "stickers": [
         {
           "image_file": "SP_01.webp",
-          "emojis": ["🍄"]
+          "emojis": ["😀"]
         },
         {
           "image_file": "SP_02.webp",
-          "emojis": ["⭐"]
+          "emojis": ["😀"]
         },
         {
           "image_file": "SP_03.webp",
-          "emojis": ["⭐"]
+          "emojis": ["😀"]
         }
       ]
     }
   ]
 }
+
 
 
 
