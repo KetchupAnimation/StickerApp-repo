@@ -15,11 +15,12 @@
       "avoid_cache": false,
       "stickers": [
         { "image_file": "Kirby_01.webp", "emojis": ["😀"] },
-        { "image_file": "Kirby_02.webp", "emojis": ["😀"] },
+        { "image_file": "Kirby_02.webp", "emojis": ["😀"] }
       ]
     }
   ]
 }
+
 
 
 
