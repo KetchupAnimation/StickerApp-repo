@@ -7,22 +7,27 @@
       "name": "Kirby Pack",
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Kirby.png",
-      "publisher_email": "info@untal3d.com",
-      "publisher_website": "https://untal3d.com/",
+      "publisher_email": "",
+      "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "image_data_version": "1",
       "avoid_cache": false,
       "stickers": [
-            { "image_file": "Kirby_01.webp", "emojis": ["😀"] },
-            { "image_file": "tKirby_02.webp", "emojis": ["😀"] },
-            { "image_file": "Kirby_03.webp", "emojis": ["😀"] }
-        ]
+        { "image_file": "Kirby_01.webp" }, { "image_file": "Kirby_02.webp" }, { "image_file": "Kirby_03.webp" },
+        { "image_file": "Kirby_04.webp" }, { "image_file": "Kirby_05.webp" }, { "image_file": "Kirby_06.webp" },
+        { "image_file": "Kirby_07.webp" }, { "image_file": "Kirby_08.webp" }, { "image_file": "Kirby_09.webp" },
+        { "image_file": "Kirby_10.pwebp" }, { "image_file": "Kirby_11.webp" }, { "image_file": "Kirby_12.webp" },
+        { "image_file": "Kirby_13.webp" }, { "image_file": "Kirby_14.webp" }, { "image_file": "Kirby_15.webp" },
+        { "image_file": "Kirby_16.pwebp" }, { "image_file": "Kirby_17.webp" }, { "image_file": "Kirby_18.webp" },
+        { "image_file": "Kirby_19.webp" }, { "image_file": "Kirby_20.webp" }, { "image_file": "Kirby_21.webp" },
+        { "image_file": "Kirby_22.webp" }, { "image_file": "Kirby_23.webp" }, { "image_file": "Kirby_24.webp" },
+        { "image_file": "Kirby_25.webp" }, { "image_file": "Kirby_26.webp" }, { "image_file": "Kirby_27.webp" },
+        { "image_file": "Kirby_28.webp" }, { "image_file": "Kirby_29.webp" }
+      ]
     }
   ]
 }
-
-
 
 
 
