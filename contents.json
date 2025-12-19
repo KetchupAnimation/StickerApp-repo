@@ -82,55 +82,56 @@
 
   "wallpapers": [
     {
-      "identifier": "wall_01",
+      "identifier": "wallpappers",
       "name": "Selva Nintendo",
       "image_file": "wall_01.jpg", 
       "publisher": "UnTal3D"
     },
     {
-      "identifier": "wall_02",
+      "identifier": "wallpappers",
       "name": "Fondo Rojo",
       "image_file": "wall_02.jpg",
       "publisher": "UnTal3D"
     },
     {
-      "identifier": "wall_03",
+      "identifier": "wallpappers",
       "name": "Fondo Rojo",
       "image_file": "wall_03.jpg",
       "publisher": "UnTal3D"
     },
     {
-      "identifier": "wall_04",
+      "identifier": "wallpappers",
       "name": "Fondo Rojo",
       "image_file": "wall_04.jpg",
       "publisher": "UnTal3D"
     },
     {
-      "identifier": "wall_05",
+      "identifier": "wallpappers",
       "name": "Fondo Rojo",
       "image_file": "wall_05.jpg",
       "publisher": "UnTal3D"
     },
     {
-      "identifier": "wall_06",
+      "identifier": "wallpappers",
       "name": "Fondo Rojo",
       "image_file": "wall_06.jpg",
       "publisher": "UnTal3D"
     },
     {
-      "identifier": "wall_07",
+      "identifier": "wallpappers",
       "name": "Fondo Rojo",
       "image_file": "wall_07.jpg",
       "publisher": "UnTal3D"
     },
     {
-      "identifier": "wall_08",
+      "identifier": "wallpappers",
       "name": "Fondo Rojo",
       "image_file": "wall_08.jpg",
       "publisher": "UnTal3D"
     }
   ]
 }
+
 
 
 
