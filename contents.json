@@ -1,7 +1,6 @@
 {
   "android_play_store_link": "",
   "ios_app_store_link": "",
-  
   "banners": [
     {
       "image_file": "banner_1.png",
@@ -16,11 +15,6 @@
       "link_url": "https://www.instagram.com"
     }
   ],
-
-
-  
-  "android_play_store_link": "",
-  "ios_app_store_link": "",
   "sticker_packs": [
     {
       "identifier": "01_Kirby",
@@ -48,7 +42,8 @@
         }
       ]
     },
-    "identifier": "02_Splatoon2",
+    { 
+      "identifier": "02_Splatoon2",
       "name": "Splatoon 2",
       "publisher": "Nintendo Fan",
       "tray_image_file": "tray_Splatoon.png",
@@ -60,10 +55,10 @@
           "emojis": ["🍄"]
         },
         {
-          "image_file": "SP_01.webp",
+          "image_file": "SP_02.webp",
           "emojis": ["⭐"]
         },
-         {
+        {
           "image_file": "SP_03.webp",
           "emojis": ["⭐"]
         }
@@ -71,9 +66,6 @@
     }
   ]
 }
-
-
-
 
 
 
