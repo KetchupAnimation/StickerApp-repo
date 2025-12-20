@@ -913,35 +913,35 @@
       "identifier": "wallpappers",
       "name": "Sonic",
       "image_file": "wall_01.jpg", 
-      "publisher": "UnTal3D"
+      "publisher": "UnTal3D",
       "is_new": true
     },
     {
       "identifier": "wallpappers",
       "name": "Gengar",
       "image_file": "wall_02.jpg",
-      "publisher": "UnTal3D"
+      "publisher": "UnTal3D",
       "is_new": true
     },
     {
       "identifier": "wallpappers",
       "name": "Kirby",
       "image_file": "wall_03.jpg",
-      "publisher": "UnTal3D"
+      "publisher": "UnTal3D",
       "is_new": true
     },
     {
       "identifier": "wallpappers",
       "name": "Lucas",
       "image_file": "wall_04.jpg",
-      "publisher": "UnTal3D"
+      "publisher": "UnTal3D",
        "is_new": true
     },
     {
       "identifier": "wallpappers",
       "name": "Bowswer Jr",
       "image_file": "wall_05.jpg",
-      "publisher": "UnTal3D"
+      "publisher": "UnTal3D",
       "is_new": true
     },
     {
@@ -955,47 +955,48 @@
       "identifier": "wallpappers",
       "name": "Link ¡Despierta!",
       "image_file": "wall_07.jpg",
-      "publisher": "UnTal3D"
+      "publisher": "UnTal3D",
       "is_new": true
     },
     {
       "identifier": "wallpappers",
       "name": "Boo",
       "image_file": "wall_08.jpg",
-      "publisher": "UnTal3D"
+      "publisher": "UnTal3D",
       "is_new": true
     },
     {
       "identifier": "wallpappers",
       "name": "Boo",
       "image_file": "wall_09.jpg",
-      "publisher": "UnTal3D"
+      "publisher": "UnTal3D",
       "is_new": true
     },
     {
       "identifier": "wallpappers",
       "name": "Gastly",
       "image_file": "wall_10.jpg",
-      "publisher": "UnTal3D"
+      "publisher": "UnTal3D",
       "is_new": true
     },
     {
       "identifier": "wallpappers",
       "name": "Peach",
       "image_file": "wall_11.jpg",
-      "publisher": "UnTal3D"
+      "publisher": "UnTal3D",
       "is_new": true
     },
     {
       "identifier": "wallpappers",
       "name": "Poliwag",
       "image_file": "wall_12.jpg",
-      "publisher": "UnTal3D"
+      "publisher": "UnTal3D",
       "is_new": true
     }
   
   ]
 }
+
 
 
 
