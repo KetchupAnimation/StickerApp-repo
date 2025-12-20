@@ -540,7 +540,364 @@
         { "image_file": "BombOmb-22.webp", "emojis": ["🎉"] },
         { "image_file": "BombOmb-23.webp", "emojis": ["📖"] }
       ]
+    },
+    {
+      "identifier": "06_Luigi",
+      "name": "Luigi",
+      "publisher": "Steph.Color",
+      "tray_image_file": "tray_Luigi.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Luigi-01.webp", "emojis": ["😉"] },
+        { "image_file": "Luigi-02.webp", "emojis": ["✌️"] },
+        { "image_file": "Luigi-03.webp", "emojis": ["😭"] },
+        { "image_file": "Luigi-04.webp", "emojis": ["📱"] },
+        { "image_file": "Luigi-05.webp", "emojis": ["😄"] },
+        { "image_file": "Luigi-06.webp", "emojis": ["📸"] },
+        { "image_file": "Luigi-07.webp", "emojis": ["🔦"] },
+        { "image_file": "Luigi-08.webp", "emojis": ["😲"] },
+        { "image_file": "Luigi-09.webp", "emojis": ["❓"] },
+        { "image_file": "Luigi-10.webp", "emojis": ["😰"] },
+        { "image_file": "Luigi-11.webp", "emojis": ["😮"] },
+        { "image_file": "Luigi-12.webp", "emojis": ["🫡"] },
+        { "image_file": "Luigi-13.webp", "emojis": ["😏"] },
+        { "image_file": "Luigi-14.webp", "emojis": ["😎"] },
+        { "image_file": "Luigi-15.webp", "emojis": ["☕"] },
+        { "image_file": "Luigi-16.webp", "emojis": ["🚫"] },
+        { "image_file": "Luigi-17.webp", "emojis": ["📞"] },
+        { "image_file": "Luigi-18.webp", "emojis": ["🙂"] },
+        { "image_file": "Luigi-19.webp", "emojis": ["😨"] },
+        { "image_file": "Luigi-20.webp", "emojis": ["💗"] },
+        { "image_file": "Luigi-21.webp", "emojis": ["🤢"] },
+        { "image_file": "Luigi-22.webp", "emojis": ["👐"] },
+        { "image_file": "Luigi-23.webp", "emojis": ["🧐"] },
+        { "image_file": "Luigi-24.webp", "emojis": ["🤔"] },
+        { "image_file": "Luigi-25.webp", "emojis": ["😰"] },
+        { "image_file": "Luigi-26.webp", "emojis": ["😴"] },
+        { "image_file": "Luigi-27.webp", "emojis": ["🫣"] },
+        { "image_file": "Luigi-28.webp", "emojis": ["🤭"] }
+      ]
+    },
+    {
+      "identifier": "08_Layton",
+      "name": "Profesor Layton",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Layton.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Layton-01.webp", "emojis": ["☕", "👋"] },
+        { "image_file": "Layton-02.webp", "emojis": ["🤔"] },
+        { "image_file": "Layton-03.webp", "emojis": ["😔"] },
+        { "image_file": "Layton-04.webp", "emojis": ["📱"] },
+        { "cite": "17", "image_file": "Layton-05.webp", "emojis": ["❓"] },
+        { "cite": "17", "image_file": "Layton-06.webp", "emojis": ["🎉"] },
+        { "cite": "17", "image_file": "Layton-07.webp", "emojis": ["🤷"] },
+        { "cite": "17", "image_file": "Layton-08.webp", "emojis": ["✊"] },
+        { "cite": "17", "image_file": "Layton-09.webp", "emojis": ["☝️", "❗"] },
+        { "cite": "17", "image_file": "Layton-10.webp", "emojis": ["😰"] },
+        { "cite": "17", "image_file": "Layton-11.webp", "emojis": ["🙇"] },
+        { "cite": "17", "image_file": "Layton-12.webp", "emojis": ["💡"] },
+        { "cite": "17", "image_file": "Layton-13.webp", "emojis": ["🎩"] },
+        { "cite": "17", "image_file": "Layton-14.webp", "emojis": ["👀"] }
+      ]
+    },
+    {
+      "identifier": "15_Mother",
+      "name": "Mother / EarthBound",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Mother.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Mother-01.webp", "emojis": ["🤪"] },
+        { "image_file": "Mother-02.webp", "emojis": ["😠"] },
+        { "image_file": "Mother-03.webp", "emojis": ["😀"] },
+        { "image_file": "Mother-04.webp", "emojis": ["😑"] },
+        { "image_file": "Mother-05.webp", "emojis": ["😛"] },
+        { "image_file": "Mother-06.webp", "emojis": ["✨"] },
+        { "image_file": "Mother-07.webp", "emojis": ["✌️"] },
+        { "image_file": "Mother-08.webp", "emojis": ["😋"] },
+        { "image_file": "Mother-09.webp", "emojis": ["😫"] },
+        { "image_file": "Mother-10.webp", "emojis": ["🤩"] },
+        { "image_file": "Mother-11.webp", "emojis": ["😤"] },
+        { "image_file": "Mother-12.webp", "emojis": ["😮"] },
+        { "image_file": "Mother-13.webp", "emojis": ["🖕"] },
+        { "image_file": "Mother-14.webp", "emojis": ["🤢"] },
+        { "image_file": "Mother-15.webp", "emojis": ["😍"] },
+        { "image_file": "Mother-16.webp", "emojis": ["🥴"] },
+        { "image_file": "Mother-17.webp", "emojis": ["😬"] },
+        { "image_file": "Mother-18.webp", "emojis": ["💀"] },
+        { "image_file": "Mother-19.webp", "emojis": ["🙂"] },
+        { "image_file": "Mother-20.webp", "emojis": ["💧"] },
+        { "image_file": "Mother-21.webp", "emojis": ["🌻"] },
+        { "image_file": "Mother-22.webp", "emojis": ["🫣"] },
+        { "image_file": "Mother-23.webp", "emojis": ["💢"] },
+        { "image_file": "Mother-24.webp", "emojis": ["😭"] }
+      ]
+    },
+    {
+      "identifier": "16_Psyduck",
+      "name": "Psyduck",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Psyduck.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Psyduck-01.webp", "emojis": ["🤯"] },
+        { "image_file": "Psyduck-02.webp", "emojis": ["😍"] },
+        { "image_file": "Psyduck-03.webp", "emojis": ["🍺"] },
+        { "image_file": "Psyduck-04.webp", "emojis": ["☕"] },
+        { "image_file": "Psyduck-05.webp", "emojis": ["😭"] },
+        { "image_file": "Psyduck-06.webp", "emojis": ["✨"] },
+        { "image_file": "Psyduck-07.webp", "emojis": ["📱"] },
+        { "image_file": "Psyduck-08.webp", "emojis": ["⛈️"] },
+        { "image_file": "Psyduck-09.webp", "emojis": ["💤"] },
+        { "image_file": "Psyduck-10.webp", "emojis": ["💻"] },
+        { "image_file": "Psyduck-11.webp", "emojis": ["😎"] },
+        { "image_file": "Psyduck-12.webp", "emojis": ["🤭"] },
+        { "image_file": "Psyduck-13.webp", "emojis": ["🙌"] },
+        { "image_file": "Psyduck-14.webp", "emojis": ["💥"] },
+        { "image_file": "Psyduck-15.webp", "emojis": ["😐"] }
+      ]
+    },
+    {
+      "identifier": "17_Poliwag",
+      "name": "Poliwag",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Poliwag.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Poliwag-01.webp", "emojis": ["😊", "💖"] },
+        { "image_file": "Poliwag-02.webp", "emojis": ["👻"] },
+        { "image_file": "Poliwag-03.webp", "emojis": ["🌈", "🤮"] },
+        { "image_file": "Poliwag-04.webp", "emojis": ["🙂"] },
+        { "image_file": "Poliwag-05.webp", "emojis": ["🪫", "🏃"] },
+        { "image_file": "Poliwag-06.webp", "emojis": ["😘", "💕"] },
+        { "image_file": "Poliwag-07.webp", "emojis": ["✨", "😋"] },
+        { "image_file": "Poliwag-08.webp", "emojis": ["😲", "👻"] },
+        { "image_file": "Poliwag-09.webp", "emojis": ["😴"] },
+        { "image_file": "Poliwag-10.webp", "emojis": ["😭"] },
+        { "image_file": "Poliwag-11.webp", "emojis": ["😮", "🍽️"] },
+        { "image_file": "Poliwag-12.webp", "emojis": ["😐", "❗"] },
+        { "image_file": "Poliwag-13.webp", "emojis": ["😶"] },
+        { "image_file": "Poliwag-14.webp", "emojis": ["😠"] },
+        { "image_file": "Poliwag-15.webp", "emojis": ["🔥", "💢"] }
+      ]
+    },
+    {
+      "identifier": "18_Bomberman",
+      "name": "Bomberman",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Bomberman.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Bomberman-01.webp", "emojis": ["😔"] },
+        { "image_file": "Bomberman-02.webp", "emojis": ["✨", "😊"] },
+        { "image_file": "Bomberman-03.webp", "emojis": ["😭"] },
+        { "image_file": "Bomberman-04.webp", "emojis": ["😤"] },
+        { "image_file": "Bomberman-05.webp", "emojis": ["🔥", "💣"] },
+        { "image_file": "Bomberman-06.webp", "emojis": ["⚔️"] },
+        { "image_file": "Bomberman-07.webp", "emojis": ["💤"] },
+        { "image_file": "Bomberman-08.webp", "emojis": ["👍"] },
+        { "image_file": "Bomberman-09.webp", "emojis": ["🤨"] },
+        { "image_file": "Bomberman-10.webp", "emojis": ["😄"] },
+        { "image_file": "Bomberman-11.webp", "emojis": ["😠"] },
+        { "image_file": "Bomberman-12.webp", "emojis": ["😳"] },
+        { "image_file": "Bomberman-13.webp", "emojis": ["😋"] },
+        { "image_file": "Bomberman-14.webp", "emojis": ["❌"] },
+        { "image_file": "Bomberman-15.webp", "emojis": ["😵"] },
+        { "image_file": "Bomberman-16.webp", "emojis": ["😲"] },
+        { "image_file": "Bomberman-17.webp", "emojis": ["👎", "💬"] },
+        { "image_file": "Bomberman-18.webp", "emojis": ["✅", "💬"] }
+      ]
+    },
+    {
+      "identifier": "19_Canela",
+      "name": "Canela / Isabelle",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Canela.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Canela-01.webp", "emojis": ["😊"] },
+        { "image_file": "Canela-02.webp", "emojis": ["😭"] },
+        { "image_file": "Canela-03.webp", "emojis": ["😰"] },
+        { "image_file": "Canela-04.webp", "emojis": ["😴"] },
+        { "image_file": "Canela-05.webp", "emojis": ["😲"] },
+        { "image_file": "Canela-06.webp", "emojis": ["😄"] },
+        { "image_file": "Canela-07.webp", "emojis": ["😑"] },
+        { "image_file": "Canela-08.webp", "emojis": ["😠"] },
+        { "image_file": "Canela-09.webp", "emojis": ["👋"] },
+        { "image_file": "Canela-10.webp", "emojis": ["🫣"] },
+        { "image_file": "Canela-11.webp", "emojis": ["😤"] },
+        { "image_file": "Canela-12.webp", "emojis": ["😍"] },
+        { "image_file": "Canela-13.webp", "emojis": ["😎"] },
+        { "image_file": "Canela-14.webp", "emojis": ["🤨"] },
+        { "image_file": "Canela-15.webp", "emojis": ["😒"] }
+      ]
+    },
+    {
+      "identifier": "20_Gengar_y_Gastly",
+      "name": "Gengar y Gastly",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Fantasmas.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Fantasma-01.webp", "emojis": ["😛"] },
+        { "image_file": "Fantasma-02.webp", "emojis": ["😑"] },
+        { "image_file": "Fantasma-03.webp", "emojis": ["🌸"] },
+        { "image_file": "Fantasma-04.webp", "emojis": ["😌"] },
+        { "image_file": "Fantasma-05.webp", "emojis": ["🙌"] },
+        { "image_file": "Fantasma-06.webp", "emojis": ["😭"] },
+        { "image_file": "Fantasma-07.webp", "emojis": ["🏃"] },
+        { "image_file": "Fantasma-08.webp", "emojis": ["🙂"] },
+        { "image_file": "Fantasma-09.webp", "emojis": ["😝"] },
+        { "image_file": "Fantasma-10.webp", "emojis": ["😉", "🤍"] },
+        { "image_file": "Fantasma-11.webp", "emojis": ["🫠"] },
+        { "image_file": "Fantasma-12.webp", "emojis": ["😟"] },
+        { "image_file": "Fantasma-13.webp", "emojis": ["😰"] },
+        { "image_file": "Fantasma-14.webp", "emojis": ["😈"] },
+        { "image_file": "Fantasma-15.webp", "emojis": ["😜"] },
+        { "image_file": "Fantasma-16.webp", "emojis": ["😀"] },
+        { "image_file": "Fantasma-17.webp", "emojis": ["😒"] },
+        { "image_file": "Fantasma-18.webp", "emojis": ["😠"] },
+        { "image_file": "Fantasma-19.webp", "emojis": ["😍"] }
+      ]
+    },
+    {
+      "identifier": "21_Animal_Crossing",
+      "name": "Animal Crossing",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Crossing.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Crossing-01.webp", "emojis": ["😊"] },
+        { "image_file": "Crossing-02.webp", "emojis": ["🤭"] },
+        { "image_file": "Crossing-03.webp", "emojis": ["👋"] },
+        { "image_file": "Crossing-04.webp", "emojis": ["💰"] },
+        { "image_file": "Crossing-05.webp", "emojis": ["😄"] },
+        { "image_file": "Crossing-06.webp", "emojis": ["😌"] },
+        { "image_file": "Crossing-07.webp", "emojis": ["😑"] },
+        { "image_file": "Crossing-08.webp", "emojis": ["🤔"] },
+        { "image_file": "Crossing-09.webp", "emojis": ["🥰"] },
+        { "image_file": "Crossing-10.webp", "emojis": ["🤨"] },
+        { "image_file": "Crossing-11.webp", "emojis": ["🤩"] },
+        { "image_file": "Crossing-12.webp", "emojis": ["😰"] },
+        { "image_file": "Crossing-13.webp", "emojis": ["❓"] },
+        { "image_file": "Crossing-14.webp", "emojis": ["💢"] },
+        { "image_file": "Crossing-15.webp", "emojis": ["❌"] },
+        { "image_file": "Crossing-16.webp", "emojis": ["✅"] }
+      ]
+    },
+    {
+      "identifier": "22_Crash",
+      "name": "Crash Bandicoot",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Crash.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Crash-01.webp", "emojis": ["💪", "😃"] },
+        { "image_file": "Crash-02.webp", "emojis": ["😊"] },
+        { "image_file": "Crash-03.webp", "emojis": ["😎"] },
+        { "image_file": "Crash-04.webp", "emojis": ["🤨"] },
+        { "image_file": "Crash-05.webp", "emojis": ["😜", "✨"] },
+        { "image_file": "Crash-06.webp", "emojis": ["😠", "💢"] },
+        { "image_file": "Crash-07.webp", "emojis": ["😭"] },
+        { "image_file": "Crash-08.webp", "emojis": ["🤢", "🤮"] },
+        { "image_file": "Crash-09.webp", "emojis": ["😒"] },
+        { "image_file": "Crash-10.webp", "emojis": ["👎"] },
+        { "image_file": "Crash-11.webp", "emojis": ["🤩", "⭐"] },
+        { "image_file": "Crash-12.webp", "emojis": ["😑"] },
+        { "image_file": "Crash-13.webp", "emojis": ["😄", "✌️"] }
+      ]
+    },
+    {
+      "identifier": "23_Peach",
+      "name": "Princesa Peach",
+      "publisher": "Varios Artistas",
+      "tray_image_file": "tray_Peach.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Peach-01.webp", "emojis": ["😮"] },
+        { "image_file": "Peach-02.webp", "emojis": ["😉", "🤟"] },
+        { "image_file": "Peach-03.webp", "emojis": ["😄", "✨"] },
+        { "image_file": "Peach-04.webp", "emojis": ["😭"] },
+        { "image_file": "Peach-05.webp", "emojis": ["😌", "🎶"] },
+        { "image_file": "Peach-06.webp", "emojis": ["😊"] },
+        { "image_file": "Peach-07.webp", "emojis": ["😤", "💢"] },
+        { "image_file": "Peach-08.webp", "emojis": ["😔"] }
+      ]
+    },
+    {
+      "identifier": "24_BowserJr",
+      "name": "Bowser Jr.",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Bowser.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Bowser-01.webp", "emojis": ["🚫", "💣"] },
+        { "image_file": "Bowser-02.webp", "emojis": ["😜", "👅"] },
+        { "image_file": "Bowser-03.webp", "emojis": ["💪", "😃"] },
+        { "image_file": "Bowser-04.webp", "emojis": ["✨", "😊"] },
+        { "image_file": "Bowser-05.webp", "emojis": ["😭"] },
+        { "image_file": "Bowser-06.webp", "emojis": ["😑"] },
+        { "image_file": "Bowser-07.webp", "emojis": ["😠"] },
+        { "image_file": "Bowser-08.webp", "emojis": ["😵‍💫"] },
+        { "image_file": "Bowser-09.webp", "emojis": ["✔️", "💬"] },
+        { "image_file": "Bowser-10.webp", "emojis": ["❤️", "💬"] }
+      ]
+    },
+    {
+      "identifier": "25_Ninjala",
+      "name": "Ninjala",
+      "publisher": "Varios Artistas",
+      "tray_image_file": "tray_Ninjala.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Ninjala01.webp", "emojis": ["😉", "👈"] },
+        { "image_file": "Ninjala02.webp", "emojis": ["😐"] },
+        { "image_file": "Ninjala03.webp", "emojis": ["😨"] },
+        { "image_file": "Ninjala04.webp", "emojis": ["😆"] },
+        { "image_file": "Ninjala05.webp", "emojis": ["😲"] },
+        { "image_file": "Ninjala06.webp", "emojis": ["🙂"] },
+        { "image_file": "Ninjala07.webp", "emojis": ["😶"] },
+        { "image_file": "Ninjala08.webp", "emojis": ["😰"] },
+        { "image_file": "Ninjala09.webp", "emojis": ["🤩", "🙏"] }
+      ]
+    },
+    {
+      "identifier": "26_Wario",
+      "name": "Wario",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Wario.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "WARIO_01.webp", "emojis": ["😝", "💨"] },
+        { "image_file": "WARIO_02.webp", "emojis": ["😤"] },
+        { "image_file": "WARIO_03.webp", "emojis": ["😴", "💤"] },
+        { "image_file": "WARIO_04.webp", "emojis": ["🏃", "💢"] },
+        { "image_file": "WARIO_05.webp", "emojis": ["💎", "💙"] },
+        { "image_file": "WARIO_06.webp", "emojis": ["❌", "😡"] },
+        { "image_file": "WARIO_07.webp", "emojis": ["✅", "😏"] },
+        { "image_file": "WARIO_08.webp", "emojis": ["✔️", "💬"] },
+        { "image_file": "WARIO_09.webp", "emojis": ["❓", "😵‍💫"] }
+      ]
     }
+
+
+
+    
         
     
   ],
@@ -627,6 +984,7 @@
   
   ]
 }
+
 
 
 
