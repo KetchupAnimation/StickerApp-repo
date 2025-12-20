@@ -135,6 +135,83 @@
         { "image_file": "Yoshi_27.webp", "emojis": ["❤️"] },
         { "image_file": "Yoshi_28.webp", "emojis": ["🥚"] }
       ]
+    },
+    {
+      "identifier": "04_Boo",
+      "name": "Boo",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Boo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Boo_01.webp", "emojis": ["😛"] },
+        { "image_file": "Boo_02.webp", "emojis": ["😠"] },
+        { "image_file": "Boo_03.webp", "emojis": ["🤪"] },
+        { "image_file": "Boo_04.webp", "emojis": ["❓"] },
+        { "image_file": "Boo_05.webp", "emojis": ["💫"] },
+        { "image_file": "Boo_06.webp", "emojis": ["😨"] },
+        { "image_file": "Boo_07.webp", "emojis": ["😖"] },
+        { "image_file": "Boo_08.webp", "emojis": ["❗"] },
+        { "image_file": "Boo_09.webp", "emojis": ["😈"] },
+        { "image_file": "Boo_10.webp", "emojis": ["😤"] },
+        { "image_file": "Boo_11.webp", "emojis": ["📢"] },
+        { "image_file": "Boo_12.webp", "emojis": ["😭"] },
+        { "image_file": "Boo_13.webp", "emojis": ["🧐"] },
+        { "image_file": "Boo_14.webp", "emojis": ["😋"] },
+        { "image_file": "Boo_15.webp", "emojis": ["👎"] },
+        { "image_file": "Boo_16.webp", "emojis": ["👅"] },
+        { "image_file": "Boo_17.webp", "emojis": ["🤤"] },
+        { "image_file": "Boo_18.webp", "emojis": ["🤩"] },
+        { "image_file": "Boo_19.webp", "emojis": ["😌"] },
+        { "image_file": "Boo_20.webp", "emojis": ["🤨"] },
+        { "image_file": "Boo_21.webp", "emojis": ["😤"] },
+        { "image_file": "Boo_22.webp", "emojis": ["🙈"] },
+        { "image_file": "Boo_23.webp", "emojis": ["💢"] },
+        { "image_file": "Boo_24.webp", "emojis": ["😐"] },
+        { "image_file": "Boo_25.webp", "emojis": ["👓"] },
+        { "image_file": "Boo_26.webp", "emojis": ["🍪"] },
+        { "image_file": "Boo_27.webp", "emojis": ["😍"] },
+        { "image_file": "Boo_28.webp", "emojis": ["😴"] },
+        { "image_file": "Boo_29.webp", "emojis": ["👈"] }
+      ]
+    },
+    {
+      "identifier": "05_Link",
+      "name": "Link",
+      "publisher": "Varios Artistas",
+      "tray_image_file": "tray_Link.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        { "image_file": "Link_01.webp", "emojis": ["🙂"] },
+        { "image_file": "Link_02.webp", "emojis": ["😄"] },
+        { "image_file": "Link_03.webp", "emojis": ["😴"] },
+        { "image_file": "Link_04.webp", "emojis": ["😅"] },
+        { "image_file": "Link_05.webp", "emojis": ["😲"] },
+        { "image_file": "Link_06.webp", "emojis": ["📸"] },
+        { "image_file": "Link_07.webp", "emojis": ["😒"] },
+        { "image_file": "Link_08.webp", "emojis": ["🥤"] },
+        { "image_file": "Link_09.webp", "emojis": ["😊"] },
+        { "image_file": "Link_10.webp", "emojis": ["🤢"] },
+        { "image_file": "Link_11.webp", "emojis": ["🤔"] },
+        { "image_file": "Link_12.webp", "emojis": ["🔨"] },
+        { "image_file": "Link_13.webp", "emojis": ["😖"] },
+        { "image_file": "Link_14.webp", "emojis": ["🤨"] },
+        { "image_file": "Link_15.webp", "emojis": ["❤️"] },
+        { "image_file": "Link_16.webp", "emojis": ["✔️"] },
+        { "image_file": "Link_17.webp", "emojis": ["😠"] },
+        { "image_file": "Link_18.webp", "emojis": ["😱"] },
+        { "image_file": "Link_19.webp", "emojis": ["😨"] },
+        { "image_file": "Link_20.webp", "emojis": ["😰"] },
+        { "image_file": "Link_21.webp", "emojis": ["🤯"] },
+        { "image_file": "Link_22.webp", "emojis": ["😜"] },
+        { "image_file": "Link_23.webp", "emojis": ["💢"] },
+        { "image_file": "Link_24.webp", "emojis": ["😔"] },
+        { "image_file": "Link_25.webp", "emojis": ["🧚"] },
+        { "image_file": "Link_26.webp", "emojis": ["👂"] },
+        { "image_file": "Link_27.webp", "emojis": ["❌"] },
+        { "image_file": "Link_28.webp", "emojis": ["✅"] }
+      ]
     }
         
     
@@ -197,6 +274,7 @@
     }
   ]
 }
+
 
 
 
