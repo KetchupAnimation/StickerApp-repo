@@ -914,6 +914,7 @@
       "name": "Sonic",
       "image_file": "wall_01.jpg", 
       "publisher": "UnTal3D"
+      "is_new": true
     },
     {
       "identifier": "wallpappers",
@@ -984,6 +985,7 @@
   
   ]
 }
+
 
 
 
