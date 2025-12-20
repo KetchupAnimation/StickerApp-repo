@@ -1,6 +1,20 @@
 {
   "android_play_store_link": "",
   "ios_app_store_link": "",
+
+"promo": {
+    "enabled": true,
+    "image": "banner_1.png",
+    "title": "12K EN INSTAGRAM",
+    "subtitle": "META DE SEGUIDORES PARA MÁS STICKERS",
+    "link": "https://www.instagram.com/untal3d/",
+    "current": 1200,
+    "goal": 2500
+  },
+
+
+
+  
   "banners": [
     {
       "image_file": "banner_1.png",
@@ -589,6 +603,7 @@
   
   ]
 }
+
 
 
 
