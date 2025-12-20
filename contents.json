@@ -948,7 +948,7 @@
       "identifier": "wallpappers",
       "name": "Profesor Layton",
       "image_file": "wall_06.jpg",
-      "publisher": "UnTal3D"
+      "publisher": "UnTal3D",
       "is_new": true
     },
     {
@@ -996,6 +996,7 @@
   
   ]
 }
+
 
 
 
