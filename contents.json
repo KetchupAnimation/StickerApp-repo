@@ -4,15 +4,15 @@
   "banners": [
     {
       "image_file": "banner_1.png",
-      "link_url": "https://www.google.com"
+      "link_url": "https://www.instagram.com/untal3d/"
     },
     {
       "image_file": "banner_2.png",
-      "link_url": "https://www.youtube.com"
+      "link_url": "https://www.instagram.com/untal3d/"
     },
     {
       "image_file": "banner_3.png",
-      "link_url": "https://www.instagram.com"
+      "link_url": "https://www.youtube.com/untal3d/"
     }
   ],
 
@@ -589,6 +589,7 @@
   
   ]
 }
+
 
 
 
