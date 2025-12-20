@@ -540,54 +540,61 @@
   "wallpapers": [
     {
       "identifier": "wallpappers",
-      "name": "Selva Nintendo",
+      "name": "Sonic",
       "image_file": "wall_01.jpg", 
       "publisher": "UnTal3D"
     },
     {
       "identifier": "wallpappers",
-      "name": "Fondo Rojo",
+      "name": "Gengar",
       "image_file": "wall_02.jpg",
       "publisher": "UnTal3D"
     },
     {
       "identifier": "wallpappers",
-      "name": "Fondo Rojo",
+      "name": "Kirby",
       "image_file": "wall_03.jpg",
       "publisher": "UnTal3D"
     },
     {
       "identifier": "wallpappers",
-      "name": "Fondo Rojo",
+      "name": "Lucas",
       "image_file": "wall_04.jpg",
       "publisher": "UnTal3D"
     },
     {
       "identifier": "wallpappers",
-      "name": "Fondo Rojo",
+      "name": "Bowswer Jr",
       "image_file": "wall_05.jpg",
       "publisher": "UnTal3D"
     },
     {
       "identifier": "wallpappers",
-      "name": "Fondo Rojo",
+      "name": Profesor Layton",
       "image_file": "wall_06.jpg",
       "publisher": "UnTal3D"
     },
     {
       "identifier": "wallpappers",
-      "name": "Fondo Rojo",
+      "name": "Link ¡Despierta!",
       "image_file": "wall_07.jpg",
       "publisher": "UnTal3D"
     },
     {
       "identifier": "wallpappers",
-      "name": "Fondo Rojo",
+      "name": "Boo",
       "image_file": "wall_08.jpg",
+      "publisher": "UnTal3D"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Boo",
+      "image_file": "wall_09.jpg",
       "publisher": "UnTal3D"
     }
   ]
 }
+
 
 
 
