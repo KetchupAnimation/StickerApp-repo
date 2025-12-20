@@ -25,7 +25,7 @@
     {
       "identifier": "01_Kirby",
       "name": "Kirby",
-      "publisher": "Artistas varios",
+      "publisher": "UnTal3D",
       "tray_image_file": "tray_Kirby.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -60,26 +60,42 @@
         { "image_file": "Kirby_28.webp", "emojis": ["🍎", "😋"] }
       ]
     },
-    { 
+   {
       "identifier": "02_Splatoon2",
       "name": "Splatoon 2",
-      "publisher": "Nintendo Fan",
+      "publisher": "UnTal3D",
       "tray_image_file": "tray_Splatoon.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "stickers": [
-        {
-          "image_file": "SP_01.webp",
-          "emojis": ["😀"]
-        },
-        {
-          "image_file": "SP_02.webp",
-          "emojis": ["😀"]
-        },
-        {
-          "image_file": "SP_03.webp",
-          "emojis": ["😀"]
-        }
+        { "image_file": "SP_01.webp", "emojis": ["😮"] },
+        { "image_file": "SP_02.webp", "emojis": ["😕"] },
+        { "image_file": "SP_03.webp", "emojis": ["😲"] },
+        { "image_file": "SP_04.webp", "emojis": ["🙂"] },
+        { "image_file": "SP_05.webp", "emojis": ["🦑"] },
+        { "image_file": "SP_06.webp", "emojis": ["💬"] },
+        { "image_file": "SP_07.webp", "emojis": ["💜"] },
+        { "image_file": "SP_08.webp", "emojis": ["💖"] },
+        { "image_file": "SP_09.webp", "emojis": ["🐱"] },
+        { "image_file": "SP_10.webp", "emojis": ["😼"] },
+        { "image_file": "SP_11.webp", "emojis": ["🥺"] },
+        { "image_file": "SP_12.webp", "emojis": ["🥰"] },
+        { "image_file": "SP_13.webp", "emojis": ["😜"] },
+        { "image_file": "SP_14.webp", "emojis": ["✨"] },
+        { "image_file": "SP_15.webp", "emojis": ["😠"] },
+        { "image_file": "SP_16.webp", "emojis": ["😏"] },
+        { "image_file": "SP_17.webp", "emojis": ["😍"] },
+        { "image_file": "SP_18.webp", "emojis": ["😎"] },
+        { "image_file": "SP_19.webp", "emojis": ["😰"] },
+        { "image_file": "SP_20.webp", "emojis": ["😭"] },
+        { "image_file": "SP_21.webp", "emojis": ["🏃"] },
+        { "image_file": "SP_22.webp", "emojis": ["⛈️"] },
+        { "image_file": "SP_23.webp", "emojis": ["❓"] },
+        { "image_file": "SP_24.webp", "emojis": ["🤖"] },
+        { "image_file": "SP_25.webp", "emojis": ["✅"] },
+        { "image_file": "SP_26.webp", "emojis": ["💥"] },
+        { "image_file": "SP_27.webp", "emojis": ["👍"] },
+        { "image_file": "SP_28.webp", "emojis": ["❌"] }
       ]
     },
     {
@@ -181,6 +197,7 @@
     }
   ]
 }
+
 
 
 
