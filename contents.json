@@ -25,27 +25,39 @@
     {
       "identifier": "01_Kirby",
       "name": "Kirby",
-      "publisher": "Nintendo Fan",
+      "publisher": "Artistas varios",
       "tray_image_file": "tray_Kirby.png",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version": "3",
+      "image_data_version": "1",
       "avoid_cache": false,
       "stickers": [
-        {
-          "image_file": "Kirby_11.webp",
-          "emojis": ["😀"]
-        },
-        {
-          "image_file": "Kirby_12.webp",
-          "emojis": ["😀"]
-        },
-        {
-          "image_file": "Kirby_13.webp",
-          "emojis": ["😀"]
-        }
+        { "image_file": "Kirby_01.webp", "emojis": ["😊"] },
+        { "image_file": "Kirby_02.webp", "emojis": ["✨"] },
+        { "image_file": "Kirby_03.webp", "emojis": ["🎶"] },
+        { "image_file": "Kirby_04.webp", "emojis": ["😉"] },
+        { "image_file": "Kirby_05.webp", "emojis": ["🥺"] },
+        { "image_file": "Kirby_06.webp", "emojis": ["😲"] },
+        { "image_file": "Kirby_07.webp", "emojis": ["😄"] },
+        { "image_file": "Kirby_08.webp", "emojis": ["😮"] },
+        { "image_file": "Kirby_09.webp", "emojis": ["💢"] },
+        { "image_file": "Kirby_10.webp", "emojis": ["😠"] },
+        { "image_file": "Kirby_11.webp", "emojis": ["😢"] },
+        { "image_file": "Kirby_12.webp", "emojis": ["😴"] },
+        { "image_file": "Kirby_13.webp", "emojis": ["💤"] },
+        { "image_file": "Kirby_14.webp", "emojis": ["💡"] },
+        { "image_file": "Kirby_15.webp", "emojis": ["🙃"] },
+        { "image_file": "Kirby_16.webp", "emojis": ["🤟", "❤️"] },
+        { "image_file": "Kirby_17.webp", "emojis": ["❌", "👎"] },
+        { "image_file": "Kirby_18.webp", "emojis": ["✅", "👍"] },
+        { "image_file": "Kirby_19.webp", "emojis": ["📖"] },
+        { "image_file": "Kirby_20.webp", "emojis": ["🛌"] },
+        { "image_file": "Kirby_21.webp", "emojis": ["🧐"] },
+        { "image_file": "Kirby_22.webp", "emojis": ["💻"] },
+        { "image_file": "Kirby_23.webp", "emojis": ["🏃"] },
+        { "image_file": "Kirby_24.webp", "emojis": ["👻"] },
+        { "image_file": "Kirby_25.webp", "emojis": ["💬"] },
+        { "image_file": "Kirby_26.webp", "emojis": ["🍩"] },
+        { "image_file": "Kirby_27.webp", "emojis": ["☔"] },
+        { "image_file": "Kirby_28.webp", "emojis": ["🍎", "😋"] }
       ]
     },
     { 
@@ -169,6 +181,7 @@
     }
   ]
 }
+
 
 
 
