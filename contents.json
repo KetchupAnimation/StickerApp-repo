@@ -43,6 +43,7 @@
       "tray_image_file": "tray_Kirby.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "status": "new",
       "stickers": [
         { "image_file": "Kirby_01.webp", "emojis": ["😊"] },
         { "image_file": "Kirby_02.webp", "emojis": ["✨"] },
@@ -996,6 +997,7 @@
   
   ]
 }
+
 
 
 
