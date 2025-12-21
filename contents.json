@@ -885,6 +885,7 @@
       "tray_image_file": "tray_Wario.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "status": "updated",
       "stickers": [
         { "image_file": "WARIO_01.webp", "emojis": ["😝", "💨"] },
         { "image_file": "WARIO_02.webp", "emojis": ["😤"] },
@@ -999,6 +1000,7 @@
   
   ]
 }
+
 
 
 
