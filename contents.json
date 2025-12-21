@@ -82,6 +82,7 @@
       "tray_image_file": "tray_Splatoon.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "status": "updated",
       "stickers": [
         { "image_file": "SP_01.webp", "emojis": ["😮"] },
         { "image_file": "SP_02.webp", "emojis": ["😕"] },
@@ -120,6 +121,7 @@
       "tray_image_file": "tray_Yoshi.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "status": "",
       "stickers": [
         { "image_file": "Yoshi_01.webp", "emojis": ["😊"] },
         { "image_file": "Yoshi_02.webp", "emojis": ["🙂"] },
@@ -997,6 +999,7 @@
   
   ]
 }
+
 
 
 
