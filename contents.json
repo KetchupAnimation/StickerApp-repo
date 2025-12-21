@@ -44,7 +44,6 @@
       "image_data_version": "1",
       "avoid_cache": false,
       "status": "new",
-      "is_premium": true,
       "stickers": [
         { "image_file": "Kirby_01.webp", "emojis": ["😊"] },
         { "image_file": "Kirby_02.webp", "emojis": ["✨"] },
@@ -83,8 +82,7 @@
       "tray_image_file": "tray_Splatoon.png",
       "image_data_version": "1",
       "avoid_cache": false,
-      "status": "updated",
-      "is_premium": true,
+      "status": "",
       "stickers": [
         { "image_file": "SP_01.webp", "emojis": ["😮"] },
         { "image_file": "SP_02.webp", "emojis": ["😕"] },
@@ -278,6 +276,7 @@
       "tray_image_file": "tray_Pikachu.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "is_premium": true,
       "stickers": [
         { "image_file": "Pikachu-01.webp", "emojis": ["😊"] },
         { "image_file": "Pikachu-02.webp", "emojis": ["😮"] },
@@ -617,6 +616,7 @@
       "tray_image_file": "tray_Mother.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "is_premium": true,
       "stickers": [
         { "image_file": "Mother-01.webp", "emojis": ["🤪"] },
         { "image_file": "Mother-02.webp", "emojis": ["😠"] },
@@ -754,6 +754,7 @@
       "tray_image_file": "tray_Fantasmas.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "is_premium": true,
       "stickers": [
         { "image_file": "Fantasma-01.webp", "emojis": ["😛"] },
         { "image_file": "Fantasma-02.webp", "emojis": ["😑"] },
@@ -850,6 +851,7 @@
       "tray_image_file": "tray_Bowser.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "is_premium": true,
       "stickers": [
         { "image_file": "Bowser-01.webp", "emojis": ["🚫", "💣"] },
         { "image_file": "Bowser-02.webp", "emojis": ["😜", "👅"] },
@@ -964,7 +966,8 @@
       "name": "Link ¡Despierta!",
       "image_file": "wall_07.jpg",
       "publisher": "UnTal3D",
-      "is_new": false
+      "is_new": false,
+      "is_premium": true
     },
     {
       "identifier": "wallpappers",
@@ -1006,6 +1009,7 @@
   
   ]
 }
+
 
 
 
