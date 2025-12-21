@@ -989,7 +989,8 @@
       "name": "Peach",
       "image_file": "wall_11.jpg",
       "publisher": "UnTal3D",
-      "is_new": true
+      "is_new": true,
+      "is_premium": true
     },
     {
       "identifier": "wallpappers",
@@ -1001,6 +1002,7 @@
   
   ]
 }
+
 
 
 
