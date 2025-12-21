@@ -352,6 +352,7 @@
       "tray_image_file": "tray_Mario.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "is_premium": true,
       "stickers": [
         { "image_file": "Mario-01.webp", "emojis": ["😊"] },
         { "image_file": "Mario-02.webp", "emojis": ["😂"] },
@@ -553,6 +554,7 @@
       "tray_image_file": "tray_Luigi.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "is_premium": true,
       "stickers": [
         { "image_file": "Luigi-01.webp", "emojis": ["😉"] },
         { "image_file": "Luigi-02.webp", "emojis": ["✌️"] },
@@ -1004,6 +1006,7 @@
   
   ]
 }
+
 
 
 
