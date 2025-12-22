@@ -954,7 +954,7 @@
       "image_file": "wall_05.jpg",
       "publisher": "UnTal3D",
       "is_new": false,
-      "link": "https://www.instagram.com/untal3d/"
+      "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
       "identifier": "wallpappers",
@@ -1011,6 +1011,7 @@
   
   ]
 }
+
 
 
 
