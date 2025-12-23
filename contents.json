@@ -17,7 +17,7 @@
   "news": {
     "enabled": true,
     "version_id": "v1", 
-    "text": "¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos!",
+    "text": "¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos! ¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos!",
     "icon_image": "news_icon.png", 
     "bg_image": "news_popup_bg.png",
     "close_image": "btn_close_x.png"
@@ -1020,6 +1020,7 @@
   
   ]
 }
+
 
 
 
