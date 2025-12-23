@@ -12,7 +12,16 @@
     "goal": 12000,
     "start": 11000
   },
+  
 
+  "news": {
+    "enabled": true,
+    "version_id": "v1", 
+    "text": "¡Hola! Hemos agregado nuevos stickers de Mario. ¡Corre a verlos!",
+    "icon_image": "news_icon.png", 
+    "bg_image": "news_popup_bg.png",
+    "close_image": "btn_close_x.png"
+  },
 
   
   "banners": [
@@ -1011,6 +1020,7 @@
   
   ]
 }
+
 
 
 
