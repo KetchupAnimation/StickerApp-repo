@@ -51,7 +51,7 @@
       "tray_image_file": "tray_Kirby.png",
       "image_data_version": "1",
       "avoid_cache": false,
-      "status": "new",
+      "status": "",
       "artist_link": "https://instagram.com/untal3d",
       "stickers": [
         { "image_file": "Kirby_01.webp", "emojis": ["😊"] },
@@ -1019,6 +1019,7 @@
   
   ]
 }
+
 
 
 
