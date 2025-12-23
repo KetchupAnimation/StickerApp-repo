@@ -17,7 +17,7 @@
  "news": {
     "enabled": true,
     "version_id": "regreso_v1",
-    "text": "<h3>¡VOLVIMOS! ❤️</h3>\n\n<b>Gracias por el cariño y la espera.</b>\nPerdón por desaparecer: no soy programador y nadie quiso ayudarme con el código (¡ni por el 50% de las ganancias!).\n\nAsí que no me rendí: <i>Esta nueva versión está hecha con IA y mucho esfuerzo personal</i>. Si encuentran fallos, escríbanme a <b>app@untal3d.com</b>.\n\n<b>✨ NOVEDADES:</b>\n\n• <b>Nuevo Estilo:</b> Mis dibujos han madurado, actualizaré los stickers antiguos.\n• <b>Wallpapers:</b> ¡Nueva sección disponible!\n• <b>Zona Premium:</b> Se desbloquea viendo anuncios (es la única forma de mantener esto gratis).\n\nMucho contenido antiguo desaparecerá para dar paso a <b>arte 100% original y futuras colaboraciones</b>.\n\n¡Un abrazo!\n\n<i>- Deivis</i>",
+    "text": "<h3>¡VOLVIMOS! ❤️</h3>\n\n<b>Gracias por el cariño y la espera.</b>\nPerdón por desaparecer: no soy programador y nadie quiso ayudarme con el código. Así que no me rendí: <i>Esta versión está hecha con IA y mucho esfuerzo</i>.\n\n<b>✨ NOVEDADES:</b>\n\n• <b>Wallpapers:</b> ¡Nueva sección disponible!\n• <b>Zona Premium:</b> Se desbloquea viendo anuncios (ayuda a mantener la app gratis).\n\n<b>Una disculpa sincera:</b>\nCuando creé la app <b>era joven e inmaduro</b>, y usé referencias de otros artistas indebidamente. Todo ese contenido desaparecerá para dar paso a <b>arte 100% original y ético</b>.\n\nCualquier fallo, escríbanme a <b>app@untal3d.com</b>.\n\n¡Un abrazo!\n\n<i>- Deivis</i>",
     "icon_image": "news_icon_v1.png",
     "bg_image": "news_bg_v1.png",
     "close_image": "btn_close.png"
