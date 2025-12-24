@@ -935,35 +935,40 @@
       "name": "Sonic",
       "image_file": "wall_01.jpg", 
       "publisher": "UnTal3D",
-      "is_new": false
+      "is_new": true,
+      "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Gengar",
       "image_file": "wall_02.jpg",
       "publisher": "UnTal3D",
-      "is_new": false
+      "is_new": true,
+      "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Kirby",
       "image_file": "wall_03.jpg",
       "publisher": "UnTal3D",
-      "is_new": false
+      "is_new": true,
+      "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Lucas",
       "image_file": "wall_04.jpg",
       "publisher": "UnTal3D",
-       "is_new": false
+      "is_new": true,
+      "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Bowswer Jr",
       "image_file": "wall_05.jpg",
       "publisher": "UnTal3D",
-      "is_new": false,
+      "is_new": true,
+      "is_premium": false
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
@@ -971,7 +976,8 @@
       "name": "Profesor Layton",
       "image_file": "wall_06.jpg",
       "publisher": "UnTal3D",
-      "is_new": false
+      "is_new": true,
+      "is_premium": false
     },
     {
       "identifier": "wallpappers",
@@ -979,28 +985,32 @@
       "image_file": "wall_07.jpg",
       "publisher": "UnTal3D",
       "is_new": false,
-      "is_premium": true
+      "is_premium": true,
+      "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
       "identifier": "wallpappers",
       "name": "Boo",
       "image_file": "wall_08.jpg",
       "publisher": "UnTal3D",
-      "is_new": false
+      "is_new": true,
+      "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Boo",
       "image_file": "wall_09.jpg",
       "publisher": "UnTal3D",
-      "is_new": true
+      "is_new": true,
+      "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Gastly",
       "image_file": "wall_10.jpg",
       "publisher": "UnTal3D",
-      "is_new": true
+      "is_new": true,
+      "is_premium": false
     },
     {
       "identifier": "wallpappers",
@@ -1029,6 +1039,7 @@
   
   ]
 }
+
 
 
 
