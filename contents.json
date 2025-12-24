@@ -968,7 +968,7 @@
       "image_file": "wall_05.jpg",
       "publisher": "UnTal3D",
       "is_new": true,
-      "is_premium": false
+      "is_premium": false,
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
@@ -1039,6 +1039,7 @@
   
   ]
 }
+
 
 
 
