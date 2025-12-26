@@ -1056,10 +1056,21 @@
       "publisher": "Varios Artistas",
       "is_new": true,
       "is_premium": false
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Wario",
+      "image_file": "wall_16.jpg",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": false,
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
+  
   
   ]
 }
+
 
 
 
