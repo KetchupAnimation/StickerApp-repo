@@ -902,7 +902,7 @@
       "tray_image_file": "tray_Wario.png",
       "image_data_version": "1",
       "avoid_cache": false,
-      "status": "update",
+      "status": "updated",
       "artist_link": "https://instagram.com/untal3d",
       "stickers": [
         { "image_file": "Wario-01.webp", "emojis": ["😀"] },
@@ -1060,6 +1060,7 @@
   
   ]
 }
+
 
 
 
