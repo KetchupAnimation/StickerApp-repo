@@ -902,17 +902,38 @@
       "tray_image_file": "tray_Wario.png",
       "image_data_version": "1",
       "avoid_cache": false,
-      "status": "",
+      "status": "update",
+      "artist_link": "https://instagram.com/untal3d",
       "stickers": [
-        { "image_file": "WARIO_01.webp", "emojis": ["😝", "💨"] },
-        { "image_file": "WARIO_02.webp", "emojis": ["😤"] },
-        { "image_file": "WARIO_03.webp", "emojis": ["😴", "💤"] },
-        { "image_file": "WARIO_04.webp", "emojis": ["🏃", "💢"] },
-        { "image_file": "WARIO_05.webp", "emojis": ["💎", "💙"] },
-        { "image_file": "WARIO_06.webp", "emojis": ["❌", "😡"] },
-        { "image_file": "WARIO_07.webp", "emojis": ["✅", "😏"] },
-        { "image_file": "WARIO_08.webp", "emojis": ["✔️", "💬"] },
-        { "image_file": "WARIO_09.webp", "emojis": ["❓", "😵‍💫"] }
+        { "image_file": "Wario-01.webp", "emojis": ["😀"] },
+        { "image_file": "Wario-02.webp", "emojis": ["🧘"] },
+        { "image_file": "Wario-03.webp", "emojis": ["🏃"] },
+        { "image_file": "Wario-04.webp", "emojis": ["👍"] },
+        { "image_file": "Wario-05.webp", "emojis": ["💨"] },
+        { "image_file": "Wario-06.webp", "emojis": ["🥶"] },
+        { "image_file": "Wario-07.webp", "emojis": ["😍"] },
+        { "image_file": "Wario-08.webp", "emojis": ["😵"] },
+        { "image_file": "Wario-09.webp", "emojis": ["🤡"] },
+        { "image_file": "Wario-10.webp", "emojis": ["💤"] },
+        { "image_file": "Wario-11.webp", "emojis": ["🤕"] },
+        { "image_file": "Wario-12.webp", "emojis": ["✅"] },
+        { "image_file": "Wario-13.webp", "emojis": ["📝"] },
+        { "image_file": "Wario-14.webp", "emojis": ["🚫"] },
+        { "image_file": "Wario-15.webp", "emojis": ["💪"] },
+        { "image_file": "Wario-16.webp", "emojis": ["👆"] },
+        { "image_file": "Wario-17.webp", "emojis": ["🤑"] },
+        { "image_file": "Wario-18.webp", "emojis": ["🤣"] },
+        { "image_file": "Wario-19.webp", "emojis": ["😎"] },
+        { "image_file": "Wario-20.webp", "emojis": ["😭"] },
+        { "image_file": "Wario-21.webp", "emojis": ["🏋️"] },
+        { "image_file": "Wario-22.webp", "emojis": ["👻"] },
+        { "image_file": "Wario-23.webp", "emojis": ["😵‍💫"] },
+        { "image_file": "Wario-24.webp", "emojis": ["💰"] },
+        { "image_file": "Wario-25.webp", "emojis": ["🤔"] },
+        { "image_file": "Wario-26.webp", "emojis": ["😫"] },
+        { "image_file": "Wario-27.webp", "emojis": ["😠"] },
+        { "image_file": "Wario-28.webp", "emojis": ["😱"] },
+        { "image_file": "Wario-29.webp", "emojis": ["🥵"] }
       ]
     }
 
@@ -1039,6 +1060,7 @@
   
   ]
 }
+
 
 
 
