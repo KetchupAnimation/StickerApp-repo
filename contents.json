@@ -941,7 +941,7 @@
       "name": "Escamita",
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Escamita.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "status": "new",
       "is_premium": true,
@@ -1131,6 +1131,7 @@
   
   ]
 }
+
 
 
 
