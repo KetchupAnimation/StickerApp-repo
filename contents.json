@@ -903,6 +903,7 @@
       "image_data_version": "1",
       "avoid_cache": false,
       "status": "updated",
+      "update_note_image": "wario_note.jpg",
       "artist_link": "https://instagram.com/untal3d",
       "stickers": [
         { "image_file": "Wario-01.webp", "emojis": ["😀"] },
@@ -1131,6 +1132,7 @@
   
   ]
 }
+
 
 
 
