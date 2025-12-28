@@ -935,6 +935,47 @@
         { "image_file": "Wario-28.webp", "emojis": ["😱"] },
         { "image_file": "Wario-29.webp", "emojis": ["🥵"] }
       ]
+    },
+    {
+      "identifier": "27_Escamita",
+      "name": "Escamita",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Escamita.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "status": "new",
+      "artist_link": "https://instagram.com/untal3d",
+      "stickers": [
+        { "image_file": "Escamita-01.webp", "emojis": ["😱"] },
+        { "image_file": "Escamita-02.webp", "emojis": ["❓"] },
+        { "image_file": "Escamita-03.webp", "emojis": ["😴"] },
+        { "image_file": "Escamita-04.webp", "emojis": ["😠"] },
+        { "image_file": "Escamita-05.webp", "emojis": ["🔪", "😈"] },
+        { "image_file": "Escamita-06.webp", "emojis": ["😍"] },
+        { "image_file": "Escamita-07.webp", "emojis": ["😵‍💫"] },
+        { "image_file": "Escamita-08.webp", "emojis": ["😭"] },
+        { "image_file": "Escamita-09.webp", "emojis": ["💬", "😐"] },
+        { "image_file": "Escamita-10.webp", "emojis": ["😒"] },
+        { "image_file": "Escamita-11.webp", "emojis": ["🥺"] },
+        { "image_file": "Escamita-12.webp", "emojis": ["🤤"] },
+        { "image_file": "Escamita-13.webp", "emojis": ["😳"] },
+        { "image_file": "Escamita-14.webp", "emojis": ["😵"] },
+        { "image_file": "Escamita-15.webp", "emojis": ["😭"] },
+        { "image_file": "Escamita-16.webp", "emojis": ["😡"] },
+        { "image_file": "Escamita-17.webp", "emojis": ["😉"] },
+        { "image_file": "Escamita-18.webp", "emojis": ["😅"] },
+        { "image_file": "Escamita-19.webp", "emojis": ["🤩"] },
+        { "image_file": "Escamita-20.webp", "emojis": ["💤"] },
+        { "image_file": "Escamita-21.webp", "emojis": ["😲"] },
+        { "image_file": "Escamita-22.webp", "emojis": ["⭐"] },
+        { "image_file": "Escamita-23.webp", "emojis": ["😮"] },
+        { "image_file": "Escamita-24.webp", "emojis": ["🤢"] },
+        { "image_file": "Escamita-25.webp", "emojis": ["👀"] },
+        { "image_file": "Escamita-26.webp", "emojis": ["😂"] },
+        { "image_file": "Escamita-27.webp", "emojis": ["😨"] },
+        { "image_file": "Escamita-28.webp", "emojis": ["😔"] },
+        { "image_file": "Escamita-29.webp", "emojis": ["💪"] }
+      ]
     }
 
 
@@ -956,7 +997,7 @@
       "name": "Sonic",
       "image_file": "wall_01.jpg", 
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false
     },
     {
@@ -964,7 +1005,7 @@
       "name": "Gengar",
       "image_file": "wall_02.jpg",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false
     },
     {
@@ -972,7 +1013,7 @@
       "name": "Kirby",
       "image_file": "wall_03.jpg",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false
     },
     {
@@ -980,7 +1021,7 @@
       "name": "Lucas",
       "image_file": "wall_04.jpg",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false
     },
     {
@@ -988,7 +1029,7 @@
       "name": "Bowswer Jr",
       "image_file": "wall_05.jpg",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false,
       "artist_link": "https://www.instagram.com/untal3d/"
     },
@@ -997,7 +1038,7 @@
       "name": "Profesor Layton",
       "image_file": "wall_06.jpg",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false
     },
     {
@@ -1014,7 +1055,7 @@
       "name": "Boo",
       "image_file": "wall_08.jpg",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false
     },
     {
@@ -1022,7 +1063,7 @@
       "name": "Boo",
       "image_file": "wall_09.jpg",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false
     },
     {
@@ -1030,7 +1071,7 @@
       "name": "Gastly",
       "image_file": "wall_10.jpg",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false
     },
     {
@@ -1038,7 +1079,7 @@
       "name": "Peach",
       "image_file": "wall_11.jpg",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true
     },
     {
@@ -1046,7 +1087,7 @@
       "name": "Poliwag",
       "image_file": "wall_12.jpg",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true
     },
     {
@@ -1054,7 +1095,7 @@
       "name": "Splatoon 2",
       "image_file": "wall_13.jpg",
       "publisher": "Varios Artistas",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false
     },
     {
@@ -1065,11 +1106,31 @@
       "is_new": true,
       "is_premium": false,
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Escamita",
+      "image_file": "wall_17.jpg",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": false,
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+      {
+      "identifier": "wallpappers",
+      "name": "Escamita Violenta",
+      "image_file": "wall_18.jpg",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
+  
   
   
   ]
 }
+
 
 
 
