@@ -944,6 +944,7 @@
       "image_data_version": "1",
       "avoid_cache": false,
       "status": "new",
+      "is_premium": true,
       "artist_link": "https://instagram.com/untal3d",
       "stickers": [
         { "image_file": "Escamita-01.webp", "emojis": ["😱"] },
@@ -1130,6 +1131,7 @@
   
   ]
 }
+
 
 
 
