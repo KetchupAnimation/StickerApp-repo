@@ -1165,12 +1165,31 @@
       "is_new": true,
       "is_premium": true,
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+     {
+      "identifier": "wallpappers",
+      "name": "Chicken love",
+      "image_file": "wall_19.jpg",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Hungry",
+      "image_file": "wall_20.jpg",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": false,
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
   
   
   
   ]
 }
+
 
 
 
