@@ -978,6 +978,45 @@
         { "image_file": "Escamita-28.webp", "emojis": ["😔"] },
         { "image_file": "Escamita-29.webp", "emojis": ["💪"] }
       ]
+    },
+    {
+      "identifier": "28_Linkbotw",
+      "name": "Link BOTW",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Link_BOTW.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "status": "new",
+      "is_premium": true,
+      "artist_link": "https://instagram.com/untal3d",
+      "stickers": [
+        { "image_file": "Link-01.webp", "emojis": ["😅"] },
+        { "image_file": "Link-02.webp", "emojis": ["🤫"] },
+        { "image_file": "Link-03.webp", "emojis": ["🤔"] },
+        { "image_file": "Link-04.webp", "emojis": ["😘"] },
+        { "image_file": "Link-05.webp", "emojis": ["💎"] },
+        { "image_file": "Link-06.webp", "emojis": ["😏"] },
+        { "image_file": "Link-07.webp", "emojis": ["😟"] },
+        { "image_file": "Link-08.webp", "emojis": ["😲"] },
+        { "image_file": "Link-09.webp", "emojis": ["😒"] },
+        { "image_file": "Link-10.webp", "emojis": ["😎"] },
+        { "image_file": "Link-11.webp", "emojis": ["☝️"] },
+        { "image_file": "Link-12.webp", "emojis": ["😯"] },
+        { "image_file": "Link-13.webp", "emojis": ["😈"] },
+        { "image_file": "Link-14.webp", "emojis": ["😐"] },
+        { "image_file": "Link-15.webp", "emojis": ["😔"] },
+        { "image_file": "Link-16.webp", "emojis": ["🍎"] },
+        { "image_file": "Link-17.webp", "emojis": ["🤬"] },
+        { "image_file": "Link-18.webp", "emojis": ["👉"] },
+        { "image_file": "Link-19.webp", "emojis": ["😠"] },
+        { "image_file": "Link-20.webp", "emojis": ["😤"] },
+        { "image_file": "Link-21.webp", "emojis": ["🗺️"] },
+        { "image_file": "Link-22.webp", "emojis": ["😨"] },
+        { "image_file": "Link-23.webp", "emojis": ["😏"] },
+        { "image_file": "Link-24.webp", "emojis": ["🐔"] },
+        { "image_file": "Link-25.webp", "emojis": ["🐓"] },
+        { "image_file": "Link-26.webp", "emojis": ["🫣"] }
+      ]
     }
 
 
@@ -1132,6 +1171,7 @@
   
   ]
 }
+
 
 
 
