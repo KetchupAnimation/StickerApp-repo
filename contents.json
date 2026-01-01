@@ -1192,16 +1192,19 @@
 
 
 
-  "//": "--- COPIA Y PEGA ESTO EN TU CONTENTS.JSON ---",
+  "//": "--- Widgets ---",
   "4x2": 20,
   "2x2": 20,
   "4x1": 20,
   "status_4x2": {
+      "17": "new",
+      "18": "new",
+      "19": "new",
       "20": "new",
-      "19": "updated",
-      "5": "new"
+    
   }
 }
+
 
 
 
