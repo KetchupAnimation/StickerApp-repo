@@ -16,8 +16,8 @@
 
  "news": {
     "enabled": true,
-    "version_id": "v5",
-    "text": "<h3>¡VOLVIMOS! ❤️</h3>\n<b>Gracias por el cariño y la espera.</b>\nPerdón por desaparecer: no soy programador y nadie quiso ayudarme con el código. Así que no me rendí: <i>Esta versión está hecha con IA y mucho esfuerzo</i>.\n \n<b>✨ NOVEDADES:</b>\n\n• <b>Wallpapers:</b> ¡Nueva sección disponible!\n• <b>Zona Premium:</b> Se desbloquea viendo anuncios (ayuda a mantener la app gratis).\n\n<b>Una disculpa sincera:</b>\nCuando creé la app usé referencias de terceros. Todo ese contenido desaparecerá para dar paso a <b>arte 100% original</b>.\n\nCualquier fallo, escríbanme a <b>app@untal3d.com</b>.\n\n¡Un abrazo!\n\n<i>- Deivis</i>\n\n\n\n\n\n",
+    "version_id": "v6",
+    "text": "<h3>✨ ¡FELIZ AÑO NUEVO! ✨</h3>\n\nEspero que este año venga cargado de éxitos para todos.\n\n<b>🔥 NUEVA FUNCIÓN: WIDGETS</b>\n¡Ahora puedes decorar tu inicio con carátulas que cambian solas!\n\n<b>¿Cómo activarlos?</b>\n1. Activa tu <b>Ubicación (GPS)</b>.\n2. Ve a la sección <b>Carátulas</b>.\n3. Toca el <b>corazón ❤️</b> en las que más te gusten.\n\n<b>¡Listo! Tu Widget se actualizará cada 30 min con tus favoritos.</b>\n\n⚠️ <b>Usuarios Xiaomi:</b>\nLos widgets presentan fallos en el sistema de Xiaomi. ¡Mil disculpas! Sigo buscando la solución.\n\nCualquier otro error, reportar a: <b>app@untal3d.com</b>\n\n<i>- Deivis</i>\n\n\n\n\n\n",
     "icon_image": "news_icon.png",
     "overlay_image": "news_popup_front_deco.png",
     "bg_image": "news_popup_bg.png",
@@ -1189,6 +1189,7 @@
   
   ]
 }
+
 
 
 
