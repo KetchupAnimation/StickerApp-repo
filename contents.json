@@ -1,6 +1,7 @@
 {
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.ketchupstudios.Switchstickerapp",
   "ios_app_store_link": "",
+  
 
 "promo": {
     "enabled": true,
@@ -14,6 +15,13 @@
   },
   
 
+"//": "--- AGREGA ESTO AL JSON PRINCIPAL ---",
+  "4x2": 20,
+  "status_4x2": {
+      "20": "new",
+      "19": "updated"
+  }
+  
  "news": {
     "enabled": true,
     "version_id": "v6",
@@ -1189,6 +1197,7 @@
   
   ]
 }
+
 
 
 
