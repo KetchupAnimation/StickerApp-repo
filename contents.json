@@ -1260,8 +1260,22 @@
       "19": "new",
       "20": "new"
     
-  }
+  },
+
+
+
+"calendar_events": [
+    {
+      "date": "01-01",
+      "title": "¡ES EL MARIO DAY!",
+      "image": "BG_W_02.png"
+    }
+  ]
+
+
+  
 }
+
 
 
 
