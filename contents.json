@@ -94,6 +94,7 @@
       "tray_image_file": "tray_Splatoon.png",
       "image_data_version": "1",
       "avoid_cache": false,
+     "tags": ["Splatoon"],
       "status": "",
       "stickers": [
         { "image_file": "SP_01.webp", "emojis": ["😮"] },
@@ -133,6 +134,7 @@
       "tray_image_file": "tray_Yoshi.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "tags": ["Super Mario"],
       "status": "",
       "stickers": [
         { "image_file": "Yoshi_01.webp", "emojis": ["😊"] },
@@ -172,6 +174,7 @@
       "tray_image_file": "tray_Boo.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "tags": ["Super Mario"],
       "stickers": [
         { "image_file": "Boo_01.webp", "emojis": ["😛"] },
         { "image_file": "Boo_02.webp", "emojis": ["😠"] },
@@ -210,6 +213,7 @@
       "publisher": "Varios Artistas",
       "tray_image_file": "tray_Link.png",
       "image_data_version": "1",
+      "tags": ["Zelda","Link"],
       "avoid_cache": false,
       "stickers": [
         { "image_file": "Link_01.webp", "emojis": ["🙂"] },
@@ -288,6 +292,7 @@
       "tray_image_file": "tray_Pikachu.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "tags": ["Pokemon"],
       "is_premium": true,
       "stickers": [
         { "image_file": "Pikachu-01.webp", "emojis": ["😊"] },
@@ -327,6 +332,7 @@
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Rabbids.png",
       "image_data_version": "1",
+      "tags": ["Rayman"],
       "avoid_cache": false,
       "stickers": [
         { "image_file": "Rabbids-01.webp", "emojis": ["😐"] },
@@ -362,6 +368,7 @@
       "publisher": "Steph.Colors",
       "tray_image_file": "tray_Mario.png",
       "image_data_version": "1",
+      "tags": ["Super Mario"],
       "avoid_cache": false,
       "is_premium": true,
       "stickers": [
@@ -433,6 +440,7 @@
       "publisher": "UnTal3D",
       "tray_image_file": "tray_AkuAku.png",
       "image_data_version": "1",
+      "tags": ["Crash Bandicoot"],
       "avoid_cache": false,
       "stickers": [
         { "image_file": "AkuAku-01.webp", "emojis": ["😊"] },
@@ -504,6 +512,7 @@
       "name": "Inkling",
       "publisher": "Varios Artistas",
       "tray_image_file": "tray_Inkling.png",
+      "tags": ["Splatoon"],
       "image_data_version": "1",
       "avoid_cache": false,
       "stickers": [
@@ -529,6 +538,7 @@
       "identifier": "14_BombOmb",
       "name": "Bomb-Omb",
       "publisher": "UnTal3D",
+      "tags": ["Super Mario"],
       "tray_image_file": "tray_BombOmb.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -564,6 +574,7 @@
       "publisher": "Steph.Colors",
       "tray_image_file": "tray_Luigi.png",
       "image_data_version": "1",
+      "tags": ["Super Mario"],
       "avoid_cache": false,
       "is_premium": true,
       "stickers": [
@@ -626,6 +637,7 @@
       "name": "Mother / EarthBound",
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Mother.png",
+      "tags": ["Mother","EarthBound"],
       "image_data_version": "1",
       "avoid_cache": false,
       "is_premium": true,
@@ -662,6 +674,7 @@
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Psyduck.png",
       "image_data_version": "1",
+      "tags": ["Pokemon"],
       "avoid_cache": false,
       "stickers": [
         { "image_file": "Psyduck-01.webp", "emojis": ["🤯"] },
@@ -687,6 +700,7 @@
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Poliwag.png",
       "image_data_version": "1",
+      "tags": ["Pokemon"],
       "avoid_cache": false,
       "stickers": [
         { "image_file": "Poliwag-01.webp", "emojis": ["😊", "💖"] },
@@ -738,6 +752,7 @@
       "identifier": "19_Canela",
       "name": "Canela / Isabelle",
       "publisher": "UnTal3D",
+      "tags": ["Animal Crossing"],
       "tray_image_file": "tray_Canela.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -765,6 +780,7 @@
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Fantasmas.png",
       "image_data_version": "1",
+      "tags": ["Pokemon"],
       "avoid_cache": false,
       "is_premium": true,
       "stickers": [
@@ -795,6 +811,7 @@
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Crossing.png",
       "image_data_version": "1",
+      "tags": ["Animal Crossing"],
       "avoid_cache": false,
       "stickers": [
         { "image_file": "Crossing-01.webp", "emojis": ["😊"] },
@@ -819,6 +836,7 @@
       "identifier": "22_Crash",
       "name": "Crash Bandicoot",
       "publisher": "UnTal3D",
+      "tags": ["Crash Bandicoot"],
       "tray_image_file": "tray_Crash.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -844,6 +862,7 @@
       "publisher": "Varios Artistas",
       "tray_image_file": "tray_Peach.png",
       "image_data_version": "1",
+      "tags": ["Super Mario"],
       "avoid_cache": false,
       "stickers": [
         { "image_file": "Peach-01.webp", "emojis": ["😮"] },
@@ -863,6 +882,7 @@
       "tray_image_file": "tray_Bowser.png",
       "image_data_version": "1",
       "avoid_cache": false,
+      "tags": ["Super Mario"],
       "is_premium": true,
       "stickers": [
         { "image_file": "Bowser-01.webp", "emojis": ["🚫", "💣"] },
@@ -904,6 +924,7 @@
       "image_data_version": "2",
       "avoid_cache": false,
       "status": "updated",
+      "tags": ["Super Mario"],
       "update_note_image": "wario_note.jpg",
       "artist_link": "https://instagram.com/untal3d",
       "stickers": [
@@ -940,13 +961,15 @@
     },
     {
       "identifier": "27_Escamita",
-      "name": "Escamita - Splatoon 3",
+      "name": "Escamita",
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Escamita.png",
       "image_data_version": "2",
       "avoid_cache": false,
       "status": "new",
+      "tags": ["Splatoon"],
       "is_premium": true,
+      
       "artist_link": "https://instagram.com/untal3d",
       "stickers": [
         { "image_file": "Escamita-01.webp", "emojis": ["😱"] },
@@ -989,6 +1012,7 @@
       "avoid_cache": false,
       "status": "new",
       "is_premium": true,
+      "tags": ["Link","Zelda"],
       "artist_link": "https://instagram.com/untal3d",
       "stickers": [
         { "image_file": "Link-01.webp", "emojis": ["😅"] },
@@ -1036,10 +1060,11 @@
   "wallpapers": [
     {
       "identifier": "wallpappers",
-      "name": "Sonic",
+      "name": "De Cabeza",
       "image_file": "wall_01.jpg", 
       "publisher": "UnTal3D",
       "is_new": false,
+      "tags": ["Sonic"],
       "is_premium": false
     },
     {
@@ -1048,6 +1073,7 @@
       "image_file": "wall_02.jpg",
       "publisher": "UnTal3D",
       "is_new": false,
+      "tags": ["Pokemon"],
       "is_premium": false
     },
     {
@@ -1064,6 +1090,7 @@
       "image_file": "wall_04.jpg",
       "publisher": "UnTal3D",
       "is_new": false,
+      "tags": ["Mother","EarthBound"],
       "is_premium": false
     },
     {
@@ -1073,6 +1100,7 @@
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": false,
+      "tags": ["Super Mario"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
@@ -1090,6 +1118,7 @@
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": true,
+      "tags": ["Zelda","Link"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
@@ -1098,6 +1127,7 @@
       "image_file": "wall_08.jpg",
       "publisher": "UnTal3D",
       "is_new": false,
+      "tags": ["Super Mario"],
       "is_premium": false
     },
     {
@@ -1106,6 +1136,7 @@
       "image_file": "wall_09.jpg",
       "publisher": "UnTal3D",
       "is_new": false,
+      "tags": ["Super Mario"],
       "is_premium": false
     },
     {
@@ -1114,7 +1145,8 @@
       "image_file": "wall_10.jpg",
       "publisher": "UnTal3D",
       "is_new": false,
-      "is_premium": false
+      "is_premium": false,
+      "tags": ["Pokemon"]
     },
     {
       "identifier": "wallpappers",
@@ -1122,6 +1154,7 @@
       "image_file": "wall_11.jpg",
       "publisher": "UnTal3D",
       "is_new": false,
+      "tags": ["Super Mario"],
       "is_premium": true
     },
     {
@@ -1130,6 +1163,7 @@
       "image_file": "wall_12.jpg",
       "publisher": "UnTal3D",
       "is_new": false,
+      "tags": ["Pokemon"],
       "is_premium": true
     },
     {
@@ -1147,6 +1181,7 @@
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": false,
+      "tags": ["Super Mario"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
@@ -1161,29 +1196,32 @@
     },
       {
       "identifier": "wallpappers",
-      "name": "Escamita Violenta - Splatoon 3",
+      "name": "Escamita Violenta,
       "image_file": "wall_18.jpg",
       "publisher": "UnTal3D",
+      "tags": ["Splatoon"],
       "is_new": true,
       "is_premium": true,
       "artist_link": "https://www.instagram.com/untal3d/"
     },
      {
       "identifier": "wallpappers",
-      "name": "Link chicken love",
+      "name": "Chicken love",
       "image_file": "wall_19.jpg",
       "publisher": "UnTal3D",
       "is_new": true,
       "is_premium": true,
+      "tags": ["Link","Zelda"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
       "identifier": "wallpappers",
-      "name": "Link Hungry",
+      "name": "Hungry",
       "image_file": "wall_20.jpg",
       "publisher": "UnTal3D",
       "is_new": true,
       "is_premium": false,
+      "tags": ["Link","Zelda"],
       "artist_link": "https://www.instagram.com/untal3d/"
     }
   
@@ -1205,6 +1243,7 @@
     
   }
 }
+
 
 
 
