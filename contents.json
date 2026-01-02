@@ -1151,9 +1151,10 @@
     },
     {
       "identifier": "wallpappers",
-      "name": "Escamita - Splatoon 3",
+      "name": "Escamita",
       "image_file": "wall_17.jpg",
       "publisher": "UnTal3D",
+      "tags": ["Splatoon"],
       "is_new": true,
       "is_premium": false,
       "artist_link": "https://www.instagram.com/untal3d/"
@@ -1204,6 +1205,7 @@
     
   }
 }
+
 
 
 
