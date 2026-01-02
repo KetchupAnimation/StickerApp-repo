@@ -1076,7 +1076,7 @@
       "publisher": "UnTal3D",
       "is_new": false,
       "tags": ["Pokemon"],
-      "ColorBG": "6c66a2",
+      "ColorBG": "#6c66a2",
       "is_premium": false
     },
     {
@@ -1085,7 +1085,7 @@
       "image_file": "wall_03.png",
       "publisher": "UnTal3D",
       "is_new": false,
-      "ColorBG": "fb9498",
+      "ColorBG": "#fb9498",
       "is_premium": false
     },
     {
@@ -1094,7 +1094,7 @@
       "image_file": "wall_04.png",
       "publisher": "UnTal3D",
       "is_new": false,
-      "ColorBG": "f4a701",
+      "ColorBG": "#f4a701",
       "tags": ["Mother","EarthBound"],
       "is_premium": false
     },
@@ -1105,7 +1105,7 @@
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": false,
-      "ColorBG": "679d01",
+      "ColorBG": "#679d01",
       "tags": ["Super Mario"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
@@ -1114,7 +1114,7 @@
       "name": "Profesor Layton",
       "image_file": "wall_06.png",
       "publisher": "UnTal3D",
-      "ColorBG": "6b5442",
+      "ColorBG": "#6b5442",
       "is_new": false,
       "is_premium": false
     },
@@ -1125,7 +1125,7 @@
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": true,
-      "ColorBG": "c6a16d",
+      "ColorBG": "#c6a16d",
       "tags": ["Zelda","Link"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
@@ -1135,7 +1135,7 @@
       "image_file": "wall_08.png",
       "publisher": "UnTal3D",
       "is_new": false,
-      "ColorBG": "d26e86",
+      "ColorBG": "#d26e86",
       "tags": ["Super Mario"],
       "is_premium": false
     },
@@ -1145,7 +1145,7 @@
       "image_file": "wall_09.png",
       "publisher": "UnTal3D",
       "is_new": false,
-      "ColorBG": "46abbd",
+      "ColorBG": "#46abbd",
       "tags": ["Super Mario"],
       "is_premium": false
     },
@@ -1155,7 +1155,7 @@
       "image_file": "wall_10.png",
       "publisher": "UnTal3D",
       "is_new": false,
-      "ColorBG": "8078ab",
+      "ColorBG": "#8078ab",
       "is_premium": false,
       "tags": ["Pokemon"]
     },
@@ -1165,7 +1165,7 @@
       "image_file": "wall_11.png",
       "publisher": "UnTal3D",
       "is_new": false,
-      "ColorBG": "ff77b9",
+      "ColorBG": "#ff77b9",
       "tags": ["Super Mario"],
       "is_premium": true
     },
@@ -1175,7 +1175,7 @@
       "image_file": "wall_12.png",
       "publisher": "UnTal3D",
       "is_new": false,
-      "ColorBG": "a9c3e6",
+      "ColorBG": "#a9c3e6",
       "tags": ["Pokemon"],
       "is_premium": true
     },
@@ -1185,7 +1185,7 @@
       "image_file": "wall_13.png",
       "publisher": "Varios Artistas",
       "is_new": false,
-      "ColorBG": "ad3479",
+      "ColorBG": "#ad3479",
       "is_premium": false
     },
     {
@@ -1195,7 +1195,7 @@
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": false,
-      "ColorBG": "ffa401",
+      "ColorBG": "#ffa401",
       "tags": ["Super Mario"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
@@ -1207,7 +1207,7 @@
       "tags": ["Splatoon"],
       "is_new": true,
       "is_premium": false,
-      "ColorBG": "ff5800",
+      "ColorBG": "#ff5800",
       "artist_link": "https://www.instagram.com/untal3d/"
     },
       {
@@ -1218,7 +1218,7 @@
       "tags": ["Splatoon"],
       "is_new": true,
       "is_premium": true,
-      "ColorBG": "446037",
+      "ColorBG": "#446037",
       "artist_link": "https://www.instagram.com/untal3d/"
     },
      {
@@ -1229,7 +1229,7 @@
       "is_new": true,
       "is_premium": true,
       "tags": ["Link","Zelda"],
-      "ColorBG": "5b853d",
+      "ColorBG": "#5b853d",
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
@@ -1239,7 +1239,7 @@
       "publisher": "UnTal3D",
       "is_new": true,
       "is_premium": false,
-      "ColorBG": "f1b475",
+      "ColorBG": "#f1b475",
       "tags": ["Link","Zelda"],
       "artist_link": "https://www.instagram.com/untal3d/"
     }
@@ -1262,6 +1262,7 @@
     
   }
 }
+
 
 
 
