@@ -940,7 +940,7 @@
     },
     {
       "identifier": "27_Escamita",
-      "name": "Escamita",
+      "name": "Escamita - Splatoon 3",
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Escamita.png",
       "image_data_version": "2",
@@ -1151,7 +1151,7 @@
     },
     {
       "identifier": "wallpappers",
-      "name": "Escamita",
+      "name": "Escamita - Splatoon 3",
       "image_file": "wall_17.jpg",
       "publisher": "UnTal3D",
       "is_new": true,
@@ -1160,7 +1160,7 @@
     },
       {
       "identifier": "wallpappers",
-      "name": "Escamita Violenta",
+      "name": "Escamita Violenta - Splatoon 3",
       "image_file": "wall_18.jpg",
       "publisher": "UnTal3D",
       "is_new": true,
@@ -1169,7 +1169,7 @@
     },
      {
       "identifier": "wallpappers",
-      "name": "Chicken love",
+      "name": "Link chicken love",
       "image_file": "wall_19.jpg",
       "publisher": "UnTal3D",
       "is_new": true,
@@ -1178,7 +1178,7 @@
     },
     {
       "identifier": "wallpappers",
-      "name": "Hungry",
+      "name": "Link Hungry",
       "image_file": "wall_20.jpg",
       "publisher": "UnTal3D",
       "is_new": true,
@@ -1204,6 +1204,7 @@
     
   }
 }
+
 
 
 
