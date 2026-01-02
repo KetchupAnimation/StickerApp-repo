@@ -1062,166 +1062,184 @@
     {
       "identifier": "wallpappers",
       "name": "De Cabeza",
-      "image_file": "wall_01.jpg", 
+      "image_file": "wall_01.png", 
       "publisher": "UnTal3D",
       "is_new": false,
       "tags": ["Sonic"],
+      "ColorBG": "#0078b4",
       "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Gengar",
-      "image_file": "wall_02.jpg",
+      "image_file": "wall_02.png",
       "publisher": "UnTal3D",
       "is_new": false,
       "tags": ["Pokemon"],
+      "ColorBG": "6c66a2",
       "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Kirby",
-      "image_file": "wall_03.jpg",
+      "image_file": "wall_03.png",
       "publisher": "UnTal3D",
       "is_new": false,
+      "ColorBG": "fb9498",
       "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Lucas",
-      "image_file": "wall_04.jpg",
+      "image_file": "wall_04.png",
       "publisher": "UnTal3D",
       "is_new": false,
+      "ColorBG": "f4a701",
       "tags": ["Mother","EarthBound"],
       "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Bowswer Jr",
-      "image_file": "wall_05.jpg",
+      "image_file": "wall_05.png",
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": false,
+      "ColorBG": "679d01",
       "tags": ["Super Mario"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
       "identifier": "wallpappers",
       "name": "Profesor Layton",
-      "image_file": "wall_06.jpg",
+      "image_file": "wall_06.png",
       "publisher": "UnTal3D",
+      "ColorBG": "6b5442",
       "is_new": false,
       "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Link ¡Despierta!",
-      "image_file": "wall_07.jpg",
+      "image_file": "wall_07.png",
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": true,
+      "ColorBG": "c6a16d",
       "tags": ["Zelda","Link"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
       "identifier": "wallpappers",
       "name": "Boo",
-      "image_file": "wall_08.jpg",
+      "image_file": "wall_08.png",
       "publisher": "UnTal3D",
       "is_new": false,
+      "ColorBG": "d26e86",
       "tags": ["Super Mario"],
       "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Boo",
-      "image_file": "wall_09.jpg",
+      "image_file": "wall_09.png",
       "publisher": "UnTal3D",
       "is_new": false,
+      "ColorBG": "46abbd",
       "tags": ["Super Mario"],
       "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Gastly",
-      "image_file": "wall_10.jpg",
+      "image_file": "wall_10.png",
       "publisher": "UnTal3D",
       "is_new": false,
+      "ColorBG": "8078ab",
       "is_premium": false,
       "tags": ["Pokemon"]
     },
     {
       "identifier": "wallpappers",
       "name": "Peach",
-      "image_file": "wall_11.jpg",
+      "image_file": "wall_11.png",
       "publisher": "UnTal3D",
       "is_new": false,
+      "ColorBG": "ff77b9",
       "tags": ["Super Mario"],
       "is_premium": true
     },
     {
       "identifier": "wallpappers",
       "name": "Poliwag",
-      "image_file": "wall_12.jpg",
+      "image_file": "wall_12.png",
       "publisher": "UnTal3D",
       "is_new": false,
+      "ColorBG": "a9c3e6",
       "tags": ["Pokemon"],
       "is_premium": true
     },
     {
       "identifier": "wallpappers",
       "name": "Splatoon 2",
-      "image_file": "wall_13.jpg",
+      "image_file": "wall_13.png",
       "publisher": "Varios Artistas",
       "is_new": false,
+      "ColorBG": "ad3479",
       "is_premium": false
     },
     {
       "identifier": "wallpappers",
       "name": "Wario",
-      "image_file": "wall_16.jpg",
+      "image_file": "wall_16.png",
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": false,
+      "ColorBG": "ffa401",
       "tags": ["Super Mario"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
       "identifier": "wallpappers",
       "name": "Escamita",
-      "image_file": "wall_17.jpg",
+      "image_file": "wall_17.png",
       "publisher": "UnTal3D",
       "tags": ["Splatoon"],
       "is_new": true,
       "is_premium": false,
+      "ColorBG": "ff5800",
       "artist_link": "https://www.instagram.com/untal3d/"
     },
       {
       "identifier": "wallpappers",
       "name": "Escamita Violenta",
-      "image_file": "wall_18.jpg",
+      "image_file": "wall_18.png",
       "publisher": "UnTal3D",
       "tags": ["Splatoon"],
       "is_new": true,
       "is_premium": true,
+      "ColorBG": "446037",
       "artist_link": "https://www.instagram.com/untal3d/"
     },
      {
       "identifier": "wallpappers",
       "name": "Chicken love",
-      "image_file": "wall_19.jpg",
+      "image_file": "wall_19.png",
       "publisher": "UnTal3D",
       "is_new": true,
       "is_premium": true,
       "tags": ["Link","Zelda"],
+      "ColorBG": "5b853d",
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
       "identifier": "wallpappers",
       "name": "Hungry",
-      "image_file": "wall_20.jpg",
+      "image_file": "wall_20.png",
       "publisher": "UnTal3D",
       "is_new": true,
       "is_premium": false,
+      "ColorBG": "f1b475",
       "tags": ["Link","Zelda"],
       "artist_link": "https://www.instagram.com/untal3d/"
     }
@@ -1244,6 +1262,7 @@
     
   }
 }
+
 
 
 
