@@ -10,7 +10,7 @@
     {
       "id": "02_pikmin",
       "name": "Pikmin",
-      "folder": "02_pimin",
+      "folder": "02_pikmin", 
       "color_bg": "#dc3927",
       "text_color": "#FFFFFF"
     }
