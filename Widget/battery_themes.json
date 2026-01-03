@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "id": "01_link",
+      "name": "Link - Breath of the Wild",
+      "folder": "01_link",
+      "color_bg": "#b78a34",
+      "text_color": "#FFFFFF"
+    },
+    {
+      "id": "02_pikmin",
+      "name": "Pikmin",
+      "folder": "02_pimin",
+      "color_bg": "#dc3927",
+      "text_color": "#FFFFFF"
+    }
+  ]
+}
