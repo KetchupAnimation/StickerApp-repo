@@ -3,7 +3,7 @@
     {
       "id": "01_link",
       "name": "Link - Breath of the Wild",
-      "folder": "01_link",
+      "folder": "01_Link",
       "color_bg": "#b78a34",
       "text_color": "#FFFFFF",
       "is_new": true
@@ -18,3 +18,4 @@
     }
   ]
 }
+
