@@ -7,8 +7,17 @@
       "color_bg": "#5ca0cc",
       "text_color": "#FFFFFF",
       "is_new": true
+    },
+    {
+      "id": "02_Mario",
+      "name": "Super Mario",
+      "folder": "02_Mario",
+      "color_bg": "#ca3537",
+      "text_color": "#FFFFFF",
+      "is_new": true
     }
   ]
 }
+
 
 
