@@ -4,18 +4,11 @@
       "id": "01_link",
       "name": "Link - Breath of the Wild",
       "folder": "01_Link",
-      "color_bg": "#b78a34",
+      "color_bg": "#5ca0cc",
       "text_color": "#FFFFFF",
       "is_new": true
-    },
-    {
-      "id": "02_pikmin",
-      "name": "Pikmin",
-      "folder": "02_pikmin",
-      "color_bg": "#dc3927",
-      "text_color": "#FFFFFF",
-      "is_new": false
     }
   ]
 }
+
 
