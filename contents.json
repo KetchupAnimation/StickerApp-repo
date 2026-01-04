@@ -1278,9 +1278,29 @@
 
 "calendar_events": [
     {
+      "date": "01-09",
+      "title": "Frosty Fest Dia 1",
+      "image": "FrostyFest.png"
+    },
+    {
+      "date": "01-10",
+      "title": "Frosty Fest Dia 2",
+      "image": "FrostyFest.png"
+    },
+    {
+      "date": "01-15",
+      "title": "Actualizacón Animal Crossing",
+      "image": "AnimalC_2.png"
+    },
+    {
       "date": "02-12",
       "title": "Lanzamiento de Mario Tennis Fever",
       "image": "Lanza_MarioT.png"
+    },
+    {
+      "date": "02-17",
+      "title": "Virtual Boy en Nintendo Switch",
+      "image": "Virtualboy.png"
     },
    {
       "date": "02-21",
@@ -1302,6 +1322,7 @@
 
   
 }
+
 
 
 
