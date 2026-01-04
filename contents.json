@@ -1205,7 +1205,7 @@
       "image_file": "wall_17.png",
       "publisher": "UnTal3D",
       "tags": ["Splatoon"],
-      "is_new": true,
+      "is_new": false,
       "is_premium": false,
       "ColorBG": "#ff5800",
       "artist_link": "https://www.instagram.com/untal3d/"
@@ -1216,7 +1216,7 @@
       "image_file": "wall_18.png",
       "publisher": "UnTal3D",
       "tags": ["Splatoon"],
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#446037",
       "artist_link": "https://www.instagram.com/untal3d/"
@@ -1241,6 +1241,17 @@
       "is_premium": false,
       "ColorBG": "#f1b475",
       "tags": ["Link","Zelda"],
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Super Mario",
+      "image_file": "wall_21.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": false,
+      "ColorBG": "#ca3537",
+      "tags": ["Super Mario Bros"],
       "artist_link": "https://www.instagram.com/untal3d/"
     }
   
@@ -1291,6 +1302,7 @@
 
   
 }
+
 
 
 
