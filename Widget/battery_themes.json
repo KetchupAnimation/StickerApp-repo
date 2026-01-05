@@ -15,33 +15,10 @@
       "color_bg": "#ca3537",
       "text_color": "#FFFFFF",
       "is_new": true
-    },
-    {
-      "id": "03_Test",
-      "name": "Super Mario",
-      "folder": "03_Test",
-      "color_bg": "#ca3537",
-      "text_color": "#FFFFFF",
-      "is_new": true
-    },
-    {
-      "id": "04_Test",
-      "name": "SuperMario",
-      "folder": "04_Test",
-      "color_bg": "#ca3537",
-      "text_color": "#FFFFFF",
-      "is_new": true
-    },
-    {
-      "id": "05_Test",
-      "name": "Superario",
-      "folder": "05_Test",
-      "color_bg": "#ca3537",
-      "text_color": "#FFFFFF",
-      "is_new": true
     }
   ]
 }
+
 
 
 
