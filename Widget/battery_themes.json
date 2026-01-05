@@ -15,9 +15,18 @@
       "color_bg": "#ca3537",
       "text_color": "#FFFFFF",
       "is_new": true
+    },
+    {
+      "id": "03_Test",
+      "name": "Super Mario",
+      "folder": "03_Test",
+      "color_bg": "#ca3537",
+      "text_color": "#FFFFFF",
+      "is_new": true
     }
   ]
 }
+
 
 
 
