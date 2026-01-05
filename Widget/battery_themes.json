@@ -26,16 +26,15 @@
     },
     {
       "id": "04_Test",
-      "name": "Super Mario",
+      "name": "SuperMario",
       "folder": "04_Test",
       "color_bg": "#ca3537",
       "text_color": "#FFFFFF",
       "is_new": true
     },
-    ,
     {
       "id": "05_Test",
-      "name": "Super Mario",
+      "name": "Superario",
       "folder": "05_Test",
       "color_bg": "#ca3537",
       "text_color": "#FFFFFF",
@@ -43,6 +42,7 @@
     }
   ]
 }
+
 
 
 
