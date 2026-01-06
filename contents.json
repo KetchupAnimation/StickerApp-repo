@@ -863,7 +863,7 @@
       "publisher": "Varios Artistas",
       "tray_image_file": "tray_Ninjala.png",
       "image_data_version": "1",
-      "status": "new",
+      "status": "",
       "avoid_cache": false,
       "stickers": [
         { "image_file": "Ninjala01.webp", "emojis": ["😉", "👈"] },
@@ -1298,6 +1298,7 @@
 
   
 }
+
 
 
 
