@@ -15,9 +15,19 @@
       "color_bg": "#ca3537",
       "text_color": "#FFFFFF",
       "is_new": true
+    },
+    {
+      "id": "03_Justino",
+      "name": "Justino/Judd",
+      "folder": "03_Justino",
+      "color_bg": "#69665c",
+      "text_color": "#FFFFFF",
+      "is_new": true
     }
+    
   ]
 }
+
 
 
 
