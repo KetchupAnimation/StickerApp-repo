@@ -23,10 +23,19 @@
       "color_bg": "#69665c",
       "text_color": "#FFFFFF",
       "is_new": true
+    },
+    {
+      "id": "04_Excitebike",
+      "name": "Excitebike",
+      "folder": "04_Excitebike",
+      "color_bg": "#7ac36b",
+      "text_color": "#FFFFFF",
+      "is_new": true
     }
     
   ]
 }
+
 
 
 
