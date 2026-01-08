@@ -1224,6 +1224,17 @@
       "ColorBG": "#c08285",
       "tags": ["Splatoon"],
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Blue Falcon",
+      "image_file": "wall_23.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": false,
+      "ColorBG": "#c08285",
+      "tags": ["F-Zero","FZero"],
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
   
   
@@ -1294,6 +1305,7 @@
 
   
 }
+
 
 
 
