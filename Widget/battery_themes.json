@@ -41,20 +41,24 @@
     {
       "id": "id_01",
       "image": "card_01.png",
-      "text_color": "#ca3537"
+      "color_bg": "#ca3537",
+      "text_color": "#ffffff"
     },
     {
       "id": "id_02",
       "image": "card_02.png",
-      "text_color": "#5ca0cb"
+      "color_bg": "#5ca0cb",
+      "text_color": "#5ffffff"
     },
     {
       "id": "id_03",
       "image": "card_03.png",
-      "text_color": "#c18285"
+      "color_bg": "#c18285",
+      "text_color": "#ffffff"
     }
   ]
 }
+
 
 
 
