@@ -43,24 +43,28 @@
       "image": "card_01.png",
       "color_bg": "#ca3537",
       "text_color": "#ffffff",
-      "is_new": true
+      "is_new": true,
+      "artist": "Illustrated by @UnTal3D"
     },
     {
       "id": "id_02",
       "image": "card_02.png",
       "color_bg": "#5ca0cb",
       "text_color": "#5ffffff",
-      "is_new": true
+      "is_new": true,
+      "artist": "Illustrated by @UnTal3D"
     },
     {
       "id": "id_03",
       "image": "card_03.png",
       "color_bg": "#c18285",
       "text_color": "#ffffff",
-      "is_new": true
+      "is_new": true,
+      "artist": "Illustrated by @UnTal3D"
     }
   ]
 }
+
 
 
 
