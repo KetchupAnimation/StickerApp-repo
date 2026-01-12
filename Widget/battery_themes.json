@@ -33,8 +33,25 @@
       "is_new": true
     }
     
+  ],
+
+
+  
+  "id_themes": [
+    {
+      "id": "id_01",
+      "image": "card_01.png",
+      "text_color": "#FFFFFF"
+    },
+    {
+      "id": "id_02",
+      "image": "card_02.png",
+      "text_color": "#000000"
+    }
   ]
 }
+
+
 
 
 
