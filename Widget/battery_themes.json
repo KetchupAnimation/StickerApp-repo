@@ -86,8 +86,18 @@
       "is_new": true,
       "artist": "@UnTal3D"
     }
+    ,
+    {
+      "id": "id_07",
+      "image": "card_07.png",
+      "color_bg": "#f6bc27",
+      "text_color": "#ffffff",
+      "is_new": true,
+      "artist": "@UnTal3D"
+    }
   ]
 }
+
 
 
 
