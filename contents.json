@@ -1257,6 +1257,17 @@
       "ColorBG": "#7ac36b",
       "tags": ["Excitebike","Moto"],
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Inkling",
+      "image_file": "wall_27.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": false,
+      "ColorBG": "#f6bc27",
+      "tags": ["Splatoon","Inkling"],
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
   
   
@@ -1291,6 +1302,11 @@
       "date": "01-15",
       "title": "Actualizacón Animal Crossing",
       "image": "AnimalC_2.png"
+    },
+  {
+      "date": "01-28",
+      "title": "New: Splatoon 3 V.11.0.0",
+      "image": "splatoonnewversion.png"
     },
     {
       "date": "02-12",
@@ -1327,6 +1343,7 @@
 
   
 }
+
 
 
 
