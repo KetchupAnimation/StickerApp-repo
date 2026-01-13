@@ -4,7 +4,7 @@
   
 
 "promo": {
-    "enabled": true,
+    "enabled": false,
     "image": "fondo_1.png",
     "title": "11.5K EN INSTAGRAM",
     "subtitle": "META DE SEGUIDORES PARA MÁS STICKERS",
@@ -1343,6 +1343,7 @@
 
   
 }
+
 
 
 
