@@ -1186,7 +1186,7 @@
       "name": "Chicken love",
       "image_file": "wall_19.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "tags": ["Link","Zelda"],
       "ColorBG": "#5b853d",
@@ -1208,7 +1208,7 @@
       "name": "Super Mario",
       "image_file": "wall_21.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false,
       "ColorBG": "#ca3537",
       "tags": ["Super Mario Bros"],
@@ -1219,7 +1219,7 @@
       "name": "Justino/Judd",
       "image_file": "wall_22.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false,
       "ColorBG": "#c08285",
       "tags": ["Splatoon"],
@@ -1230,7 +1230,7 @@
       "name": "Blue Falcon",
       "image_file": "wall_24.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false,
       "ColorBG": "#5a78c8",
       "tags": ["F-Zero","FZero"],
@@ -1343,6 +1343,7 @@
 
   
 }
+
 
 
 
