@@ -17,8 +17,9 @@
   
  "news": {
     "enabled": true,
-    "version_id": "v7",
-    "text": "<h3>💳 ¡NUEVO ID VIRTUAL + SWITCH 2!</h3>\n\n<b>¡Ya está aquí!</b> Ahora puedes crear tu <b>Carnet de Jugador</b> compartiendo tus claves de amigo de Switch y de la nueva <b>Nintendo Switch 2</b>.\n\nGestiona tu lista de amigos agregando o eliminando sus carnets con <b>diseños exclusivos</b>.\n\n<b>🔋 MEJORAS EN WIDGETS</b>\nHemos renovado el widget de batería y el sistema general para ir eliminando bugs en todos los dispositivos poco a poco.\n\n<b>📰 COLABORACIÓN NINTENDEROS</b>\n¡Estrenamos un <b>Widget de Noticias</b> en alianza con la web Nintenderos! Toda la info en tu pantalla de inicio.\n\n<b>Recordatorio:</b> Para aplicar skins a tus widgets, dales <b>Me Gusta ❤️</b> en la sección de carátulas.\n\nReporte de fallos: <b>app@untal3d.com</b>\n\n<i>- Deivis</i>",    "icon_image": "news_icon.png",
+    "version_id": "v8",
+    "text": "<h3>💳 ¡NUEVO ID VIRTUAL + SWITCH 2!</h3>\n\n<b>¡Ya está aquí!</b> Ahora puedes crear tu <b>Carnet de Jugador</b> compartiendo tus claves de amigo de Switch y de la nueva <b>Nintendo Switch 2</b>.\n\nGestiona tu lista de amigos agregando o eliminando sus carnets con <b>diseños exclusivos</b>.\n\n<b>🔋 MEJORAS EN WIDGETS</b>\nHemos renovado el widget de batería y el sistema general para ir eliminando bugs en todos los dispositivos poco a poco.\n\n<b>📰 COLABORACIÓN NINTENDEROS</b>\n¡Estrenamos un <b>Widget de Noticias</b> en alianza con la web Nintenderos! Toda la info en tu pantalla de inicio.\n\n<b>Recordatorio:</b> Para aplicar skins a tus widgets, dales <b>Me Gusta ❤️</b> en la sección de carátulas.\n\nReporte de fallos: <b>app@untal3d.com</b>\n\n<i>- Deivis</i>\n\n\n\n\n\n",
+    "icon_image": "news_icon.png",
     "overlay_image": "news_popup_front_deco.png",
     "bg_image": "news_popup_bg.png",
     "close_image": "btn_close_x.png"
@@ -1342,6 +1343,7 @@
 
   
 }
+
 
 
 
