@@ -1150,6 +1150,26 @@
     },
     {
       "identifier": "wallpappers",
+      "name": " Pikmin",
+      "image_file": "wall_14.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "ColorBG": "#fe492e",
+      "is_premium": false,
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Evil Pikmin",
+      "image_file": "wall_15.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "ColorBG": "#f7b53b",
+      "is_premium": true,
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
       "name": "Wario",
       "image_file": "wall_16.png",
       "publisher": "UnTal3D",
@@ -1343,6 +1363,7 @@
 
   
 }
+
 
 
 
