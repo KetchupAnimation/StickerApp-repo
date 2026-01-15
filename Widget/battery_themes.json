@@ -85,8 +85,7 @@
       "text_color": "#ffffff",
       "is_new": true,
       "artist": "@UnTal3D"
-    }
-    ,
+    },
     {
       "id": "id_07",
       "image": "card_07.png",
@@ -94,9 +93,26 @@
       "text_color": "#ffffff",
       "is_new": true,
       "artist": "@UnTal3D"
+    },
+    {
+      "id": "id_08",
+      "image": "card_08.png",
+      "color_bg": "#db9bf3",
+      "text_color": "#ffffff",
+      "is_new": true,
+      "artist": "@UnTal3D"
+    },
+    {
+      "id": "id_09",
+      "image": "card_09.png",
+      "color_bg": "#137cbb",
+      "text_color": "#ffffff",
+      "is_new": true,
+      "artist": "@UnTal3D"
     }
   ]
 }
+
 
 
 
