@@ -4,12 +4,12 @@
   
 
 "promo": {
-    "enabled": false,
+    "enabled": true,
     "image": "fondo_1.png",
-    "title": "11.5K EN INSTAGRAM",
-    "subtitle": "META DE SEGUIDORES PARA MÁS STICKERS",
+    "title": "11.5K ON INSTAGRAM",
+    "subtitle": "FOLLOWER GOAL FOR MORE STICKERS",
     "link": "https://www.instagram.com/untal3d/",
-    "current": 11231,
+    "current": 11339,
     "goal": 11500,
     "start": 500
   },
@@ -1363,6 +1363,7 @@
 
   
 }
+
 
 
 
