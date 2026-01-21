@@ -1014,6 +1014,7 @@
       "avoid_cache": false,
       "update_note_image": "pikmi_note.jpg",
       "status": "new",
+      "is_premium": true,
       "artist_link": "https://instagram.com/untal3d",
       "stickers": [
         { "image_file": "Pikmin-01.webp", "emojis": ["🍎"] },
@@ -1408,6 +1409,7 @@
 
   
 }
+
 
 
 
