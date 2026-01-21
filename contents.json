@@ -927,10 +927,9 @@
       "tray_image_file": "tray_Escamita.png",
       "image_data_version": "2",
       "avoid_cache": false,
-      "status": "new",
+      "status": "",
       "tags": ["Splatoon"],
       "is_premium": true,
-      
       "artist_link": "https://instagram.com/untal3d",
       "stickers": [
         { "image_file": "Escamita-01.webp", "emojis": ["😱"] },
@@ -1409,6 +1408,7 @@
 
   
 }
+
 
 
 
