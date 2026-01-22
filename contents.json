@@ -4,7 +4,7 @@
   
 
 "promo": {
-    "enabled": true,
+    "enabled": false,
     "image": "fondo_1.png",
     "title": "11.5K ON INSTAGRAM",
     "subtitle": "FOLLOWER GOAL FOR MORE STICKERS",
@@ -1408,6 +1408,7 @@
 
   
 }
+
 
 
 
