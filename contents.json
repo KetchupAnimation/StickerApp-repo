@@ -1363,6 +1363,28 @@
       "ColorBG": "#f6bc27",
       "tags": ["Splatoon","Inkling"],
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Evil Snorlax",
+      "image_file": "wall_27.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": false,
+      "ColorBG": "#498e8f",
+      "tags": ["Pokémon","Pokemon","Snorlax"],
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Snorlax",
+      "image_file": "wall_27.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#ce3a38",
+      "tags": ["Pokémon","Pokemon","Snorlax"],
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
   
   
@@ -1372,12 +1394,12 @@
 
 
   "//": "--- SECCIÓN WIDGETS ---",
-  "4x2": 22,
-  "2x2": 22,
-  "4x1": 22,
+  "4x2": 23,
+  "2x2": 23,
+  "4x1": 23,
   "status_4x2": {
       "22": "new",
-      "20": "new"    
+      "23": "new"    
   },
 
 
@@ -1448,6 +1470,7 @@
 
   
 }
+
 
 
 
