@@ -1367,7 +1367,7 @@
     {
       "identifier": "wallpappers",
       "name": "Evil Snorlax",
-      "image_file": "wall_27.png",
+      "image_file": "wall_28.png",
       "publisher": "UnTal3D",
       "is_new": true,
       "is_premium": false,
@@ -1378,7 +1378,7 @@
     {
       "identifier": "wallpappers",
       "name": "Snorlax",
-      "image_file": "wall_27.png",
+      "image_file": "wall_29.png",
       "publisher": "UnTal3D",
       "is_new": true,
       "is_premium": true,
@@ -1470,6 +1470,7 @@
 
   
 }
+
 
 
 
