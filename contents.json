@@ -1479,7 +1479,7 @@
       "data": {
         "identifier": "pikmin_4_wall",
         "name": "Pikmin 4 (24h)",
-        "image_file": "pikmin_wall.png",
+        "image_file": "wall_14.png",
         "publisher": "Nintendo",
         "artist_link": "https://www.nintendo.com",
         "ColorBG": "#e4000f"
@@ -1491,7 +1491,7 @@
       "data": {
         "id": "splatoon_3",
         "name": "Splatoon 3 (Limited)",
-        "folder": "splatoon_3",
+        "folder": "03_Justino",
         "color_bg": "#1a1a1a",
         "text_color": "#eaff00"
       }
@@ -1500,12 +1500,13 @@
       "date": "2026-01-25",
       "type": "widget",
       "data": {
-        "id": 25
+        "id": 23
       }
     }
   ]
   
 }
+
 
 
 
