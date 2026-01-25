@@ -1465,11 +1465,48 @@
       "title": "It's Mario Day 2026!",
       "image": "BG_W_02.png"
     }
-  ]
+  ],
+
+
+
 
 
   
+"limited_events": [
+    {
+      "date": "2026-01-25",
+      "type": "wallpaper",
+      "data": {
+        "identifier": "pikmin_4_wall",
+        "name": "Pikmin 4 (24h)",
+        "image_file": "pikmin_wall.png",
+        "publisher": "Nintendo",
+        "artist_link": "https://www.nintendo.com",
+        "ColorBG": "#e4000f"
+      }
+    },
+    {
+      "date": "2026-01-25",
+      "type": "battery",
+      "data": {
+        "id": "splatoon_3",
+        "name": "Splatoon 3 (Limited)",
+        "folder": "splatoon_3",
+        "color_bg": "#1a1a1a",
+        "text_color": "#eaff00"
+      }
+    },
+    {
+      "date": "2026-01-25",
+      "type": "widget",
+      "data": {
+        "id": 25
+      }
+    }
+  ]
+  
 }
+
 
 
 
