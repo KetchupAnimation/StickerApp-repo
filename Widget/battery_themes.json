@@ -83,7 +83,7 @@
       "image": "card_06.png",
       "color_bg": "#ff5900",
       "text_color": "#ffffff",
-      "is_new": true,
+      "is_new": false,
       "artist": "@UnTal3D"
     },
     {
@@ -120,6 +120,7 @@
     }
   ]
 }
+
 
 
 
