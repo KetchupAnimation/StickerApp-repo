@@ -1424,10 +1424,15 @@
       "title": "Direct: Mario Galaxy - La Película",
       "image": "NDirect.png"
     },
-  {
+    {
       "date": "01-28",
       "title": "New: Splatoon 3 V.11.0.0",
       "image": "splatoonnewversion.png"
+    },
+    {
+      "date": "01-29",
+      "title": "Direct: Tomodachi Life ",
+      "image": "tomodachi.png"
     },
     {
       "date": "02-12",
@@ -1474,6 +1479,7 @@
 "limited_events": [ ]
   
 }
+
 
 
 
