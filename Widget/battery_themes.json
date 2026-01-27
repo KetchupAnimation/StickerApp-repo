@@ -22,13 +22,21 @@
       "folder": "03_Justino",
       "color_bg": "#69665c",
       "text_color": "#FFFFFF",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "04_Excitebike",
       "name": "Excitebike",
       "folder": "04_Excitebike",
       "color_bg": "#7ac36b",
+      "text_color": "#FFFFFF",
+      "is_new": false
+    },
+    {
+      "id": "05_Snorlax",
+      "name": "Snorlax",
+      "folder": "05_Snorlax",
+      "color_bg": "#638d8e",
       "text_color": "#FFFFFF",
       "is_new": true
     }
@@ -120,6 +128,7 @@
     }
   ]
 }
+
 
 
 
