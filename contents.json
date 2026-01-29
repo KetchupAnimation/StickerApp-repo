@@ -1486,9 +1486,25 @@
 
 
   
-"limited_events": [ ]
+"limited_events": [
+    {
+      "date": "2026-01-30",
+      "type": "wallpaper",
+      "data": {
+        "identifier": "link_1986_1",
+        "name": "Link 1986 (24h)",
+        "image_file": "wall_p_01.png",
+        "publisher": "UnTal3D",
+        "artist_link": "https://www.instagram.com/untal3d/",
+        "ColorBG": "#2ac2c2"
+      }
+    }
+  
+  
+]
   
 }
+
 
 
 
