@@ -1501,9 +1501,23 @@
     }
   
   
+],
+
+
+
+  "reactions": [
+    {"id": "heart", "image": "react_heart.png"},
+    {"id": "star", "image": "react_star.png"},
+    {"id": "mushroom", "image": "react_mushroom.png"},
+    {"id": "coin", "image": "react_coin.png"},
+    {"id": "gg", "image": "react_gg.png"},
+    {"id": "fire", "image": "react_fire.png"},
+    {"id": "crown", "image": "react_crown.png"},
+    {"id": "hi", "image": "react_hi.png"}
 ]
   
 }
+
 
 
 
