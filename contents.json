@@ -820,7 +820,7 @@
       "name": "Princesa Peach",
       "publisher": "Varios Artistas",
       "tray_image_file": "tray_Peach.png",
-      "image_data_version": "2",
+      "image_data_version": "3",
       "tags": ["Super Mario"],
       "status": "updated",
       "is_premium": false,
@@ -1489,6 +1489,7 @@
 "limited_events": [ ]
   
 }
+
 
 
 
