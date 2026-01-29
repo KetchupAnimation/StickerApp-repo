@@ -822,7 +822,8 @@
       "tray_image_file": "tray_Peach.png",
       "image_data_version": "1",
       "tags": ["Super Mario"],
-      "status": "Update",
+      "status": "updated",
+      "is_premium": false,
       "update_note_image": "peach_note.jpg",
       "artist_link": "https://instagram.com/untal3d",
       "avoid_cache": false,
@@ -1488,6 +1489,7 @@
 "limited_events": [ ]
   
 }
+
 
 
 
