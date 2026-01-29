@@ -39,6 +39,14 @@
       "color_bg": "#638d8e",
       "text_color": "#FFFFFF",
       "is_new": true
+    },
+    {
+      "id": "06_Peach,
+      "name": "Snorlax",
+      "folder": "06_Peach",
+      "color_bg": "#ce789e",
+      "text_color": "#FFFFFF",
+      "is_new": true
     }
     
   ],
@@ -128,6 +136,7 @@
     }
   ]
 }
+
 
 
 
