@@ -1509,7 +1509,7 @@
     {"id": "bayas", "image": "react_bayas.png"},
     {"id": "gift", "image": "react_gift.png"},
     {"id": "objet", "image": "react_objet.png"},
-    {"id": "crown", "image": "react_crown.png"},
+    {"id": "pcrown", "image": "react_pcrown.png"},
     {"id": "yoshi", "image": "react_yoshi.png"},
     {"id": "shellblue", "image": "react_shellblue.png"},
     {"id": "escudo", "image": "react_escudo.png"},
@@ -1521,6 +1521,7 @@
 ]
   
 }
+
 
 
 
