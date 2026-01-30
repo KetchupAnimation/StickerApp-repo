@@ -1506,17 +1506,22 @@
 
 
   "reactions": [
-    {"id": "heart", "image": "react_heart.png"},
-    {"id": "star", "image": "react_star.png"},
-    {"id": "mushroom", "image": "react_mushroom.png"},
-    {"id": "coin", "image": "react_coin.png"},
-    {"id": "gg", "image": "react_gg.png"},
-    {"id": "fire", "image": "react_fire.png"},
+    {"id": "bayas", "image": "react_bayas.png"},
+    {"id": "gift", "image": "react_gift.png"},
+    {"id": "objet", "image": "react_objet.png"},
     {"id": "crown", "image": "react_crown.png"},
-    {"id": "hi", "image": "react_hi.png"}
+    {"id": "yoshi", "image": "react_yoshi.png"},
+    {"id": "shellblue", "image": "react_shellblue.png"},
+    {"id": "escudo", "image": "react_escudo.png"},
+    {"id": "tomato", "image": "react_tomato.png"},
+    {"id": "inkling", "image": "react_inkling.png"},
+    {"id": "splat", "image": "react_splat.png"},
+    {"id": "pokeball", "image": "react_pokeball.png"},
+    {"id": "metroid", "image": "react_metroid.png"}
 ]
   
 }
+
 
 
 
