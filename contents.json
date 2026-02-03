@@ -1093,7 +1093,7 @@
       "name": "Princesa Peach",
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Peach.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "tags": ["Super Mario"],
       "status": "updated",
       "is_premium": false,
@@ -1117,7 +1117,7 @@
         { "image_file": "Peach-13.webp", "emojis": ["❓"] },
         { "image_file": "Peach-14.webp", "emojis": ["🥴", "🤢"] }
       ]
-    },
+    }
 
 
 
@@ -1551,6 +1551,7 @@
 ]
   
 }
+
 
 
 
