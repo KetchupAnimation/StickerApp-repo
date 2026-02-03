@@ -1090,10 +1090,10 @@
     },
     {
       "identifier": "31_Peach",
-      "name": "Princesa Peach",
+      "name": "Princesa Peach 2",
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Peach.png",
-      "image_data_version": "2",
+      "image_data_version": "3",
       "tags": ["Super Mario"],
       "status": "updated",
       "is_premium": false,
@@ -1551,6 +1551,7 @@
 ]
   
 }
+
 
 
 
