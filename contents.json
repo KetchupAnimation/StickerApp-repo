@@ -535,6 +535,7 @@
       "image_data_version": "1",
       "tags": ["Super Mario"],
       "avoid_cache": false,
+      "artist_link": "https://www.instagram.com/steph.colors/",
       "is_premium": true,
       "stickers": [
         { "image_file": "Luigi-01.webp", "emojis": ["😉"] },
@@ -1551,6 +1552,7 @@
 ]
   
 }
+
 
 
 
