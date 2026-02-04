@@ -1430,7 +1430,7 @@
       "title": "Actualizacón Animal Crossing",
       "image": "AnimalC_2.png"
     },
-  {
+    {
       "date": "01-25",
       "title": "Direct: Mario Galaxy - La Película",
       "image": "NDirect.png"
@@ -1444,6 +1444,11 @@
       "date": "01-29",
       "title": "Direct: Tomodachi Life ",
       "image": "tomodachi.png"
+    },
+    {
+      "date": "02-05",
+      "title": "Direct: Partner Showcase!",
+      "image": "NDirect.png"
     },
     {
       "date": "02-12",
@@ -1522,6 +1527,7 @@
 ]
   
 }
+
 
 
 
