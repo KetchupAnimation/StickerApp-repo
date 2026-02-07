@@ -6,6 +6,7 @@
       "folder": "01_Link",
       "color_bg": "#5ca0cc",
       "text_color": "#FFFFFF",
+      "artist_link": "https://www.instagram.com/untal3d/",
       "is_new": false
     },
     {
@@ -144,6 +145,7 @@
     }
   ]
 }
+
 
 
 
