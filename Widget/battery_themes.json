@@ -38,13 +38,21 @@
       "folder": "05_Snorlax",
       "color_bg": "#638d8e",
       "text_color": "#FFFFFF",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "06_Peach",
       "name": "Snorlax",
       "folder": "06_Peach",
       "color_bg": "#ce789e",
+      "text_color": "#FFFFFF",
+      "is_new": false
+    },
+    {
+      "id": "07_Canela",
+      "name": "Canela",
+      "folder": "07_Canela",
+      "color_bg": "#9bdeff",
       "text_color": "#FFFFFF",
       "is_new": true
     }
@@ -136,6 +144,7 @@
     }
   ]
 }
+
 
 
 
