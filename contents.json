@@ -1238,7 +1238,7 @@
       "name": " Pikmin",
       "image_file": "wall_14.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "ColorBG": "#fe492e",
       "is_premium": false,
       "artist_link": "https://www.instagram.com/untal3d/"
@@ -1248,7 +1248,7 @@
       "name": "Evil Pikmin",
       "image_file": "wall_15.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "ColorBG": "#f7b53b",
       "is_premium": true,
       "artist_link": "https://www.instagram.com/untal3d/"
@@ -1390,7 +1390,7 @@
       "name": "Snorlax",
       "image_file": "wall_29.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#ce3a38",
       "tags": ["Pokémon","Pokemon","Snorlax"],
@@ -1538,6 +1538,7 @@
 ]
   
 }
+
 
 
 
