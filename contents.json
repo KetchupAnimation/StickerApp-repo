@@ -1061,6 +1061,7 @@
       "tray_image_file": "tray_Snorlax.png",
       "image_data_version": "1",
       "status": "new",
+      "start_date": "2026-02-01",
       "update_note_image": "snorlax_note.jpg",
       "artist_link": "https://instagram.com/untal3d",
       "avoid_cache": false,
@@ -1390,6 +1391,7 @@
       "name": "Snorlax",
       "image_file": "wall_29.png",
       "publisher": "UnTal3D",
+      "is_hidden": true,
       "is_new": false,
       "is_premium": true,
       "ColorBG": "#ce3a38",
@@ -1538,6 +1540,7 @@
 ]
   
 }
+
 
 
 
