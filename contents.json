@@ -1396,7 +1396,7 @@
       "is_new": false,
       "is_premium": true,
       "ColorBG": "#ce3a38",
-      "tags": ["Pokémon","Pokemon","Snorlax"],
+      "tags": ["Pokémon","Pokemon","Snorlax","30_Snorlax"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
@@ -1541,6 +1541,7 @@
 ]
   
 }
+
 
 
 
