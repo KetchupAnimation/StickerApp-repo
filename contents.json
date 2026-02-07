@@ -1391,6 +1391,7 @@
       "name": "Snorlax",
       "image_file": "wall_29.png",
       "publisher": "UnTal3D",
+      "day": "5",
       "is_hidden": true,
       "is_new": false,
       "is_premium": true,
@@ -1540,6 +1541,7 @@
 ]
   
 }
+
 
 
 
