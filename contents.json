@@ -1395,6 +1395,17 @@
       "ColorBG": "#ce3a38",
       "tags": ["Pokémon","Pokemon","Snorlax"],
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Canela",
+      "image_file": "wall_30.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#dece88",
+      "tags": ["Canela","Animal Crossing"],
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
   
   
@@ -1527,6 +1538,7 @@
 ]
   
 }
+
 
 
 
