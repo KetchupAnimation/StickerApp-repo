@@ -15,6 +15,7 @@
       "folder": "02_Mario",
       "color_bg": "#ca3537",
       "text_color": "#FFFFFF",
+      "artist_link": "https://www.instagram.com/untal3d/",
       "is_new": false
     },
     {
@@ -23,6 +24,7 @@
       "folder": "03_Justino",
       "color_bg": "#69665c",
       "text_color": "#FFFFFF",
+      "artist_link": "https://www.instagram.com/untal3d/",
       "is_new": false
     },
     {
@@ -31,6 +33,7 @@
       "folder": "04_Excitebike",
       "color_bg": "#7ac36b",
       "text_color": "#FFFFFF",
+      "artist_link": "https://www.instagram.com/untal3d/",
       "is_new": false
     },
     {
@@ -39,6 +42,7 @@
       "folder": "05_Snorlax",
       "color_bg": "#638d8e",
       "text_color": "#FFFFFF",
+      "artist_link": "https://www.instagram.com/untal3d/",
       "is_new": false
     },
     {
@@ -47,6 +51,7 @@
       "folder": "06_Peach",
       "color_bg": "#ce789e",
       "text_color": "#FFFFFF",
+      "artist_link": "https://www.instagram.com/untal3d/",
       "is_new": false
     },
     {
@@ -55,6 +60,7 @@
       "folder": "07_Canela",
       "color_bg": "#9bdeff",
       "text_color": "#FFFFFF",
+      "artist_link": "https://www.instagram.com/untal3d/",
       "is_new": true
     }
     
@@ -145,6 +151,7 @@
     }
   ]
 }
+
 
 
 
