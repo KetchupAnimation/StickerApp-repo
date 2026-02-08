@@ -18,11 +18,11 @@
  "news": {
     "enabled": true,
     "version_id": "v9",
+    "min_version_code": 90,
     "text": "<h3>☁️ ¡GUARDADO EN LA NUBE!</h3>\n\n<b>¡Por fin!</b> Ahora puedes iniciar sesión con <b>Google</b>. Tus favoritos, amigos y tu ID Wallet se guardarán en la nube y se sincronizarán en todos tus dispositivos.\n\n<b>💳 TU ID EVOLUCIONA:</b>\n• <b>3 Juegos Favoritos:</b> Ahora puedes integrarlos visualmente a tu tarjeta.\n• <b>Conexión Real:</b> Si un amigo actualiza su tema o cambia de juego, ¡tú lo verás al instante! Ideal para saber qué están jugando.\n\n<b>⏳ CONTENIDO EXCLUSIVO 24H</b>\nAparecerán temas y wallpapers disponibles <b>solo por 24 horas</b>. Si los guardas a tiempo, ¡serán tuyos para siempre! Revisa la app a diario.\n\n<b>🔋 WIDGET BATERÍA</b>\nActualizado para funcionar en tiempo real. <b>IMPORTANTE:</b> Debes aplicar un tema o el widget saldrá vacío.\n\nReporte de fallos: <b>app@untal3d.com</b>\n\n<i>- Deivis</i>\n\n\n\n\n\n",    "icon_image": "news_icon.png",
     "overlay_image": "news_popup_front_deco.png",
     "bg_image": "news_popup_bg.png",
-    "close_image": "btn_close_x.png",
-    "min_version_code": 90
+    "close_image": "btn_close_x.png"
   },
 
   
@@ -1539,6 +1539,7 @@
 ]
   
 }
+
 
 
 
