@@ -1059,9 +1059,8 @@
       "name": "Snorlax",
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Snorlax.png",
-      "image_data_version": "2",
+      "image_data_version": "3",
       "status": "new",
-      "start_date": "2025-01-29",
       "update_note_image": "snorlax_note.jpg",
       "artist_link": "https://instagram.com/untal3d",
       "avoid_cache": false,
@@ -1539,6 +1538,7 @@
 ]
   
 }
+
 
 
 
