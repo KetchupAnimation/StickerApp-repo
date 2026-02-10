@@ -1089,6 +1089,41 @@
         { "image_file": "Snorlax-21.webp", "emojis": ["🍓", "😋"] },
         { "image_file": "Snorlax-22.webp", "emojis": ["😆"] }
       ]
+    },
+    {
+      "identifier": "31_Canela",
+      "name": "Canela",
+      "publisher": "UnTal3D",
+      "tray_image_file": "tray_Canela2.png",
+      "status": "new",
+      "tags": ["canela","isabelle","animal crossing"],
+      "is_premium": true,
+      "artist_link": "https://www.instagram.com/untal3d/",
+      "start_date": "2026-02-10",
+        "stickers": [
+        { "image_file": "Canela-01.png" },
+        { "image_file": "Canela-02.png" },
+        { "image_file": "Canela-03.png" },
+        { "image_file": "Canela-04.png" },
+        { "image_file": "Canela-05.png" },
+        { "image_file": "Canela-06.png" },
+        { "image_file": "Canela-07.png" },
+        { "image_file": "Canela-08.png" },
+        { "image_file": "Canela-09.png" },
+        { "image_file": "Canela-10.png" },
+        { "image_file": "Canela-11.png" },
+        { "image_file": "Canela-12.png" },
+        { "image_file": "Canela-13.png" },
+        { "image_file": "Canela-14.png" },
+        { "image_file": "Canela-15.png" },
+        { "image_file": "Canela-16.png" },
+        { "image_file": "Canela-17.png" },
+        { "image_file": "Canela-18.png" },
+        { "image_file": "Canela-19.png" },
+        { "image_file": "Canela-20.png" },
+        { "image_file": "Canela-21.png" },
+        { "image_file": "Canela-22.png" }
+      ]
     }
 
 
@@ -1407,7 +1442,61 @@
       "ColorBG": "#dece88",
       "tags": ["Canela","Animal Crossing"],
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Canela lectora",
+      "image_file": "wall_31.png",
+      "publisher": "UnTal3D",
+      "day": "5",
+      "is_hidden": true,
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#81976d",
+      "tags": ["31_Canela"],
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Canela Meditando",
+      "image_file": "wall_32.png",
+      "publisher": "UnTal3D",
+      "day": "10",
+      "is_hidden": true,
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#86a877",
+      "tags": ["31_Canela"],
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Canela",
+      "image_file": "wall_33.png",
+      "publisher": "UnTal3D",
+      "day": "15",
+      "is_hidden": true,
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#c55282",
+      "tags": ["31_Canela"],
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Canela!",
+      "image_file": "wall_34.png",
+      "publisher": "UnTal3D",
+      "day": "20",
+      "is_hidden": true,
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#943d41",
+      "tags": ["31_Canela"],
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
+
+    
   
   
   
@@ -1539,6 +1628,7 @@
 ]
   
 }
+
 
 
 
