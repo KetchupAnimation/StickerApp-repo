@@ -1096,33 +1096,34 @@
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Canela2.png",
       "status": "new",
+      "banner_image": "banner_event.png",
       "tags": ["canela","isabelle","animal crossing"],
       "is_premium": true,
       "artist_link": "https://www.instagram.com/untal3d/",
       "start_date": "2026-02-10",
         "stickers": [
-        { "image_file": "Canela-01.png" },
-        { "image_file": "Canela-02.png" },
-        { "image_file": "Canela-03.png" },
-        { "image_file": "Canela-04.png" },
-        { "image_file": "Canela-05.png" },
-        { "image_file": "Canela-06.png" },
-        { "image_file": "Canela-07.png" },
-        { "image_file": "Canela-08.png" },
-        { "image_file": "Canela-09.png" },
-        { "image_file": "Canela-10.png" },
-        { "image_file": "Canela-11.png" },
-        { "image_file": "Canela-12.png" },
-        { "image_file": "Canela-13.png" },
-        { "image_file": "Canela-14.png" },
-        { "image_file": "Canela-15.png" },
-        { "image_file": "Canela-16.png" },
-        { "image_file": "Canela-17.png" },
-        { "image_file": "Canela-18.png" },
-        { "image_file": "Canela-19.png" },
-        { "image_file": "Canela-20.png" },
-        { "image_file": "Canela-21.png" },
-        { "image_file": "Canela-22.png" }
+        { "image_file": "Canela-01.webp", "emojis": ["🌸", "😂", "🥰"] },
+        { "image_file": "Canela-02.webp", "emojis": ["🤔", "❓", "😕"] },
+        { "image_file": "Canela-03.webp", "emojis": ["😴", "🥱", "💤"] },
+        { "image_file": "Canela-04.webp", "emojis": ["❗", "😲", "📢"] },
+        { "image_file": "Canela-05.webp", "emojis": ["📖", "📚", "🤓"] },
+        { "image_file": "Canela-06.webp", "emojis": ["📣", "📢", "🗣️"] },
+        { "image_file": "Canela-07.webp", "emojis": ["🎉", "🥳", "🎊"] },
+        { "image_file": "Canela-08.webp", "emojis": ["🔍", "🧐", "👀"] },
+        { "image_file": "Canela-09.webp", "emojis": ["🎤", "🎵", "🎶"] },
+        { "image_file": "Canela-10.webp", "emojis": ["🧘", "😌", "☮️"] },
+        { "image_file": "Canela-11.webp", "emojis": ["😉", "🤫", "😏"] },
+        { "image_file": "Canela-12.webp", "emojis": ["😒", "😑", "🙄"] },
+        { "image_file": "Canela-13.webp", "emojis": ["💡", "😮", "✨"] },
+        { "image_file": "Canela-14.webp", "emojis": ["😨", "🥶", "💦"] },
+        { "image_file": "Canela-15.webp", "emojis": ["👍", "😉", "ok"] },
+        { "image_file": "Canela-16.webp", "emojis": ["🍩", "😋", "🤤"] },
+        { "image_file": "Canela-17.webp", "emojis": ["💁", "😤", "💅"] },
+        { "image_file": "Canela-18.webp", "emojis": ["📝", "📋", "✍️"] },
+        { "image_file": "Canela-19.webp", "emojis": ["☕", "😫", "💤"] },
+        { "image_file": "Canela-20.webp", "emojis": ["😡", "🔥", "💢"] },
+        { "image_file": "Canela-21.webp", "emojis": ["🤔", "💭", "🧐"] },
+        { "image_file": "Canela-22.webp", "emojis": ["😤", "💨", "😡"] }
       ]
     }
 
@@ -1628,6 +1629,7 @@
 ]
   
 }
+
 
 
 
