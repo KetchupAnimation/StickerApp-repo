@@ -1095,6 +1095,7 @@
       "name": "Canela",
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Canela2.png",
+      "image_data_version": "2",
       "status": "new",
       "banner_image": "banner_event.png",
       "tags": ["canela","isabelle","animal crossing"],
@@ -1629,6 +1630,7 @@
 ]
   
 }
+
 
 
 
