@@ -1496,6 +1496,17 @@
       "ColorBG": "#943d41",
       "tags": ["31_Canela"],
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Luigi Frog",
+      "image_file": "wall_35.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#981aa63",
+      "tags": ["Super Mario","Luigi"],
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
 
     
@@ -1507,12 +1518,12 @@
 
 
   "//": "--- SECCIÓN WIDGETS ---",
-  "4x2": 24,
-  "2x2": 24,
-  "4x1": 24,
+  "4x2": 25,
+  "2x2": 25,
+  "4x1": 25,
   "status_4x2": {
-      "24": "new",
-      "23": "new"    
+      "25": "new",
+      "24": "new"    
   },
 
 
@@ -1630,6 +1641,7 @@
 ]
   
 }
+
 
 
 
