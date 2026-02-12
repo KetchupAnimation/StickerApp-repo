@@ -148,9 +148,18 @@
       "text_color": "#ffffff",
       "is_new": true,
       "artist": "@UnTal3D"
+    },
+    {
+      "id": "id_11",
+      "image": "card_11.png",
+      "color_bg": "#6bab5f",
+      "text_color": "#ffffff",
+      "is_new": true,
+      "artist": "@UnTal3D"
     }
   ]
 }
+
 
 
 
