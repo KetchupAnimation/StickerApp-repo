@@ -1294,7 +1294,7 @@
     {
       "identifier": "wallpappers",
       "name": "Wario",
-      "image_file": "wall_16.png",
+      "image_file": "wall-16.png",
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": false,
@@ -1641,6 +1641,7 @@
 ]
   
 }
+
 
 
 
