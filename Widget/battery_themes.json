@@ -81,7 +81,7 @@
       "id": "id_02",
       "image": "card_02.png",
       "color_bg": "#5ca0cb",
-      "text_color": "#5ffffff",
+      "text_color": "#ffffff",
       "is_new": false,
       "artist": "@UnTal3D"
     },
@@ -159,6 +159,7 @@
     }
   ]
 }
+
 
 
 
