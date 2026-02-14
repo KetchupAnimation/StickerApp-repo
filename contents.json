@@ -1417,7 +1417,7 @@
       "name": "Evil Snorlax",
       "image_file": "wall_28.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": false,
       "ColorBG": "#498e8f",
       "tags": ["Pokémon","Pokemon","Snorlax"],
@@ -1522,8 +1522,7 @@
   "2x2": 25,
   "4x1": 25,
   "status_4x2": {
-      "25": "new",
-      "24": "new"    
+      "25": "new"   
   },
 
 
@@ -1641,6 +1640,7 @@
 ]
   
 }
+
 
 
 
