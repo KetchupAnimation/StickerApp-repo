@@ -62,6 +62,15 @@
       "text_color": "#FFFFFF",
       "artist_link": "https://www.instagram.com/untal3d/",
       "is_new": true
+    },
+    {
+      "id": "08_Magnetite",
+      "name": "Magnemite",
+      "folder": "08_Magnetite",
+      "color_bg": "#a1b0b2",
+      "text_color": "#FFFFFF",
+      "artist_link": "https://www.instagram.com/untal3d/",
+      "is_new": true
     }
     
   ],
@@ -146,7 +155,7 @@
       "image": "card_10.png",
       "color_bg": "#568f8f",
       "text_color": "#ffffff",
-      "is_new": true,
+      "is_new": false,
       "artist": "@UnTal3D"
     },
     {
@@ -156,9 +165,18 @@
       "text_color": "#ffffff",
       "is_new": true,
       "artist": "@UnTal3D"
+    },
+    {
+      "id": "id_Magnemite",
+      "image": "card_12.png",
+      "color_bg": "#a1b0b2",
+      "text_color": "#ffffff",
+      "is_new": true,
+      "artist": "@UnTal3D"
     }
   ]
 }
+
 
 
 
