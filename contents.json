@@ -824,7 +824,7 @@
       "tray_image_file": "tray_Peach.png",
       "image_data_version": "4",
       "tags": ["Super Mario"],
-      "status": "updated",
+      "status": "",
       "is_premium": false,
       "update_note_image": "peach_note.jpg",
       "artist_link": "https://instagram.com/untal3d",
@@ -981,7 +981,7 @@
       "tray_image_file": "tray_Link_BOTW.png",
       "image_data_version": "1",
       "avoid_cache": false,
-      "status": "new",
+      "status": "",
       "is_premium": false,
       "tags": ["Link","Zelda"],
       "artist_link": "https://instagram.com/untal3d",
@@ -1023,7 +1023,7 @@
       "image_data_version": "1",
       "avoid_cache": false,
       "update_note_image": "pikmi_note.jpg",
-      "status": "new",
+      "status": "",
       "is_premium": true,
       "artist_link": "https://instagram.com/untal3d",
       "stickers": [
@@ -1652,6 +1652,7 @@
 ]
   
 }
+
 
 
 
