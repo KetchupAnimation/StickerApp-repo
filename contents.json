@@ -1507,6 +1507,17 @@
       "ColorBG": "#81aa63",
       "tags": ["Super Mario","Luigi"],
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Magnemite",
+      "image_file": "wall_36.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#dea854",
+      "tags": ["Pokemon","Magnemite"],
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
 
     
@@ -1518,10 +1529,11 @@
 
 
   "//": "--- SECCIÓN WIDGETS ---",
-  "4x2": 25,
-  "2x2": 25,
-  "4x1": 25,
+  "4x2": 26,
+  "2x2": 26,
+  "4x1": 26,
   "status_4x2": {
+      "26": "new",
       "25": "new"   
   },
 
@@ -1640,6 +1652,7 @@
 ]
   
 }
+
 
 
 
