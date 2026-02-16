@@ -1518,6 +1518,17 @@
       "ColorBG": "#dea854",
       "tags": ["Pokemon","Magnemite"],
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Mimikyu",
+      "image_file": "wall_37.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#74a1db",
+      "tags": ["Pokemon","Mimikyu","Pikachu"],
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
 
     
@@ -1652,6 +1663,7 @@
 ]
   
 }
+
 
 
 
