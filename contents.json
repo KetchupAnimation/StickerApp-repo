@@ -1061,7 +1061,7 @@
       "publisher": "UnTal3D",
       "tray_image_file": "tray_Snorlax.png",
       "image_data_version": "3",
-      "status": "new",
+      "status": "",
       "update_note_image": "snorlax_note.jpg",
       "artist_link": "https://instagram.com/untal3d",
       "avoid_cache": false,
@@ -1128,9 +1128,10 @@
       ]
     },
     {
-      "identifier": "magnemite_untal3d",
+      "identifier": "32_Magnemite",
       "name": "Magnemite",
       "publisher": "UnTal3D",
+      "image_data_version": "2",
       "tray_image_file": "tray_Magnemite.png",
       "status": "new",
       "is_premium": true,
@@ -1702,6 +1703,7 @@
 ]
   
 }
+
 
 
 
