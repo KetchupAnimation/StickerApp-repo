@@ -1542,7 +1542,7 @@
       "name": "Luigi Frog",
       "image_file": "wall_35.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#81aa63",
       "tags": ["Super Mario","Luigi"],
@@ -1714,6 +1714,7 @@
 ]
   
 }
+
 
 
 
