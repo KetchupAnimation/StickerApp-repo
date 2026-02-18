@@ -1479,7 +1479,7 @@
       "name": "Canela",
       "image_file": "wall_30.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#dece88",
       "tags": ["Canela","Animal Crossing"],
@@ -1492,7 +1492,7 @@
       "publisher": "UnTal3D",
       "day": "5",
       "is_hidden": true,
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#81976d",
       "tags": ["31_Canela"],
@@ -1505,7 +1505,7 @@
       "publisher": "UnTal3D",
       "day": "10",
       "is_hidden": true,
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#86a877",
       "tags": ["31_Canela"],
@@ -1518,7 +1518,7 @@
       "publisher": "UnTal3D",
       "day": "15",
       "is_hidden": true,
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#c55282",
       "tags": ["31_Canela"],
@@ -1531,7 +1531,7 @@
       "publisher": "UnTal3D",
       "day": "20",
       "is_hidden": true,
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#943d41",
       "tags": ["31_Canela"],
@@ -1568,6 +1568,17 @@
       "is_premium": true,
       "ColorBG": "#74a1db",
       "tags": ["Pokemon","Mimikyu","Pikachu"],
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Relax Gengar",
+      "image_file": "wall_38.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#8962b0",
+      "tags": ["Pokemon","Gengar"],
       "artist_link": "https://www.instagram.com/untal3d/"
     }
 
@@ -1703,6 +1714,7 @@
 ]
   
 }
+
 
 
 
