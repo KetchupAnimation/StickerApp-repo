@@ -3,7 +3,7 @@
     {
       "id": "gw_01",
       "title": "Magnemite reader",
-      "image": "Wallpapers/wgacha_01.png",
+      "image": "Wallpaper/wgacha_01.png",
       "rarity": "rare",
       "ColorBG": "#ca5d4b",
       "tags": ["Pokemon","Magnemite"],
@@ -12,7 +12,7 @@
     {
       "id": "gw_02",
       "title": "Gengar skater",
-      "image": "Wallpapers/wgacha_02.png",
+      "image": "Wallpaper/wgacha_02.png",
       "rarity": "common",
       "ColorBG": "#ca6399",
       "tags": ["Pokemon","Magnemite"],
@@ -27,3 +27,4 @@
     }
   ]
 }
+
