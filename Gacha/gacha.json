@@ -7,6 +7,7 @@
       "rarity": "rare",
       "ColorBG": "#ca5d4b",
       "tags": ["Pokemon","Magnemite"],
+      "publisher": "UnTal3D",
       "artist_link": "https://www.instagram.com/untal3d/"
     },
     {
@@ -16,6 +17,7 @@
       "rarity": "common",
       "ColorBG": "#ca6399",
       "tags": ["Pokemon","Magnemite"],
+      "publisher": "UnTal3D",
       "artist_link": "https://www.instagram.com/untal3d/"
     }
   ],
@@ -27,4 +29,5 @@
     }
   ]
 }
+
 
