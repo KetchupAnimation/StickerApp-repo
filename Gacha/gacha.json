@@ -1,0 +1,28 @@
+"gacha_wallpapers": [
+    {
+      "id": "gw_01",
+      "title": "Magnemite reader",
+      "image": "Wallpapers/wgacha_01.png",
+      "rarity": "rare",
+      "ColorBG": "#ca5d4b",
+      "tags": ["Pokemon","Magnemite"],
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "id": "gw_02",
+      "title": "Gengar skater",
+      "image": "Wallpapers/wgacha_02.png",
+      "rarity": "common",
+      "ColorBG": "#ca6399",
+      "tags": ["Pokemon","Magnemite"],
+      "artist_link": "https://www.instagram.com/untal3d/"
+    }
+  ],
+  "gacha_widgets": [
+    {
+      "id": "gwid_01",
+      "image": "Widgets/4x2/gacha_01.png",
+      "rarity": "epic"
+    }
+  ]
+}
