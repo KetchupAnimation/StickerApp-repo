@@ -21,6 +21,22 @@
       "artist_link": "https://www.instagram.com/untal3d/"
     }
   ],
+
+
+"gacha_packs": [
+    {
+      "id": "premio_magnemite_01",
+      "type": "sticker_pack",
+      "title": "Magnemite Pack",
+      "pack_identifier": "32_Magnemite",
+      "rarity": "epic",
+      "colorBg": "#7D26CD"
+    }
+  ],
+
+
+    
+    
   "gacha_widgets": [
     {
       "id": "gwid_01",
@@ -29,5 +45,6 @@
     }
   ]
 }
+
 
 
