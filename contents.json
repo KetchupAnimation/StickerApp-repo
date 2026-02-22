@@ -1133,7 +1133,7 @@
       "publisher": "UnTal3D",
       "image_data_version": "3",
       "tray_image_file": "tray_Magnemite.png",
-      "status": "new",
+      "status": "gacha",
       "is_premium": true,
       "artist_link": "https://www.instagram.com/untal3d/",
       "update_note_image": "magnemite_note.jpg",
@@ -1725,6 +1725,7 @@
 ]
   
 }
+
 
 
 
