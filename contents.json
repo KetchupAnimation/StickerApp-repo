@@ -17,9 +17,9 @@
   
  "news": {
     "enabled": true,
-    "version_id": "v10",
+    "version_id": "v11",
     "min_version_code": 92,
-    "text": "<h3>☁️ ¡GUARDADO EN LA NUBE!</h3>\n\n<b>¡Por fin!</b> Ahora puedes iniciar sesión con <b>Google</b>. Tus favoritos, amigos y tu ID Wallet se guardarán en la nube y se sincronizarán en todos tus dispositivos.\n\n<b>💳 TU ID EVOLUCIONA:</b>\n• <b>3 Juegos Favoritos:</b> Ahora puedes integrarlos visualmente a tu tarjeta.\n• <b>Conexión Real:</b> Si un amigo actualiza su tema o cambia de juego, ¡tú lo verás al instante! Ideal para saber qué están jugando.\n\n<b>⏳ CONTENIDO EXCLUSIVO 24H</b>\nAparecerán temas y wallpapers disponibles <b>solo por 24 horas</b>. Si los guardas a tiempo, ¡serán tuyos para siempre! Revisa la app a diario.\n\n<b>🔋 WIDGET BATERÍA</b>\nActualizado para funcionar en tiempo real. <b>IMPORTANTE:</b> Debes aplicar un tema o el widget saldrá vacío.\n\nReporte de fallos: <b>app@untal3d.com</b>\n\n<i>- Deivis</i>\n\n\n\n\n\n",    "icon_image": "news_icon.png",
+    "text": "<h3>🌟 NEW GACHA & ISABELLE EVENT!</h3>\n\n<b>The Isabelle Sticker Event is LIVE!</b>\nOnly 9 days left! Jump in to earn coins and unlock exclusive wallpapers. Once the event ends, these wallpapers will be gone forever!\n\n<b>🎰 Weekly Gacha System</b>\nTry your luck! Use 5 coins to spin the crank and win exclusive wallpapers. <i>Coming soon: secret stickers and packs! Stay tuned.</i>\n\n<b>🎨 Custom Theme Colors</b>\nYou can now pick your favorite color in the Favorites menu. This color will be available when configuring your wallpapers and battery themes!\n\nThank you so much for your amazing support.\n\nReport bugs to: <b>app@untal3d.com</b>\n\n<i>- Deivis</i>\n",
     "overlay_image": "news_popup_front_deco.png",
     "bg_image": "news_popup_bg.png",
     "close_image": "btn_close_x.png"
@@ -1725,6 +1725,7 @@
 ]
   
 }
+
 
 
 
