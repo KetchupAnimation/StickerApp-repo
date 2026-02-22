@@ -39,7 +39,7 @@
       "pack_identifier": "30_Snorlax", 
       "rarity": "epic",
       "image": "gacha_extra_1.webp",
-      "colorBg": "#c22f34"
+      "colorBg": "#568f8f"
     },
     {
       "id": "Gacha_Link",
@@ -61,6 +61,7 @@
     }
   ]
 }
+
 
 
 
