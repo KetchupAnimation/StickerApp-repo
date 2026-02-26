@@ -1591,6 +1591,50 @@
       "ColorBG": "#aec65a",
       "tags": ["Zelda","Link","BOTW"],
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Squirtle 30th Anniversary",
+      "image_file": "wall_40.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#00a9d9",
+      "tags": ["Pokémon"],
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Charmander 30th Anniversary",
+      "image_file": "wall_41.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "e75f3f",
+      "tags": ["Pokémon"],
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Bulbasaur 30th Anniversary",
+      "image_file": "wall_42.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "63b641",
+      "tags": ["Pokémon"],
+      "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Pikachu 30th Anniversary",
+      "image_file": "wall_43.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "ffe000",
+      "tags": ["Pokémon"],
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
 
     
@@ -1725,6 +1769,7 @@
 ]
   
 }
+
 
 
 
