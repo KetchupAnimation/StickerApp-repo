@@ -1610,7 +1610,7 @@
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": true,
-      "ColorBG": "e75f3f",
+      "ColorBG": "#e75f3f",
       "tags": ["Pokémon"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
@@ -1621,7 +1621,7 @@
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": true,
-      "ColorBG": "63b641",
+      "ColorBG": "#63b641",
       "tags": ["Pokémon"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
@@ -1632,7 +1632,7 @@
       "publisher": "UnTal3D",
       "is_new": false,
       "is_premium": true,
-      "ColorBG": "ffe000",
+      "ColorBG": "#ffe000",
       "tags": ["Pokémon"],
       "artist_link": "https://www.instagram.com/untal3d/"
     },
@@ -1780,6 +1780,7 @@
 ]
   
 }
+
 
 
 
