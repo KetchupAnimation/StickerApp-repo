@@ -1553,7 +1553,7 @@
       "name": "Magnemite",
       "image_file": "wall_36.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#dea854",
       "tags": ["Pokemon","Magnemite"],
@@ -1564,7 +1564,7 @@
       "name": "Mimikyu",
       "image_file": "wall_37.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#74a1db",
       "tags": ["Pokemon","Mimikyu","Pikachu"],
@@ -1575,7 +1575,7 @@
       "name": "Relax Gengar",
       "image_file": "wall_38.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#8962b0",
       "tags": ["Pokemon","Gengar"],
@@ -1586,7 +1586,7 @@
       "name": "A little calm",
       "image_file": "wall_39.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#aec65a",
       "tags": ["Zelda","Link","BOTW"],
@@ -1597,7 +1597,7 @@
       "name": "Squirtle 30th Anniversary",
       "image_file": "wall_40.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "#00a9d9",
       "tags": ["Pokémon"],
@@ -1608,7 +1608,7 @@
       "name": "Charmander 30th Anniversary",
       "image_file": "wall_41.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "e75f3f",
       "tags": ["Pokémon"],
@@ -1619,7 +1619,7 @@
       "name": "Bulbasaur 30th Anniversary",
       "image_file": "wall_42.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "63b641",
       "tags": ["Pokémon"],
@@ -1630,7 +1630,7 @@
       "name": "Pikachu 30th Anniversary",
       "image_file": "wall_43.png",
       "publisher": "UnTal3D",
-      "is_new": true,
+      "is_new": false,
       "is_premium": true,
       "ColorBG": "ffe000",
       "tags": ["Pokémon"],
@@ -1780,6 +1780,7 @@
 ]
   
 }
+
 
 
 
