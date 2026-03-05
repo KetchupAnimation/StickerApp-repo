@@ -1635,6 +1635,17 @@
       "ColorBG": "ffe000",
       "tags": ["Pokémon"],
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Profesor Tangrowth",
+      "image_file": "wall_44.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#b86c77",
+      "tags": ["Pokémon","Pokopia","Tangrowth"],
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
 
     
@@ -1646,12 +1657,12 @@
 
 
   "//": "--- SECCIÓN WIDGETS ---",
-  "4x2": 26,
-  "2x2": 26,
-  "4x1": 26,
+  "4x2": 27,
+  "2x2": 27,
+  "4x1": 27,
   "status_4x2": {
-      "26": "new",
-      "25": "new"   
+      "27": "new",
+      "26": "new"   
   },
 
 
@@ -1769,6 +1780,7 @@
 ]
   
 }
+
 
 
 
