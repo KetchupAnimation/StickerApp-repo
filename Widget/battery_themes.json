@@ -171,7 +171,7 @@
       "image": "card_12.png",
       "color_bg": "#a1b0b2",
       "text_color": "#ffffff",
-      "is_new": true,
+      "is_new": false,
       "artist": "@UnTal3D"
     },
     {
@@ -181,9 +181,18 @@
       "text_color": "#ffffff",
       "is_new": true,
       "artist": "@UnTal3D"
+    },
+    {
+      "id": "id_Ditto",
+      "image": "card_14.png",
+      "color_bg": "#c995cf",
+      "text_color": "#ffffff",
+      "is_new": true,
+      "artist": "@UnTal3D"
     }
   ]
 }
+
 
 
 
