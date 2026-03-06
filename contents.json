@@ -1646,6 +1646,17 @@
       "ColorBG": "#b86c77",
       "tags": ["Pokémon","Pokopia","Tangrowth"],
       "artist_link": "https://www.instagram.com/untal3d/"
+    },
+    {
+      "identifier": "wallpappers",
+      "name": "Ditto",
+      "image_file": "wall_45.png",
+      "publisher": "UnTal3D",
+      "is_new": true,
+      "is_premium": true,
+      "ColorBG": "#c995cf",
+      "tags": ["Pokémon","Pokopia","Ditto"],
+      "artist_link": "https://www.instagram.com/untal3d/"
     }
 
     
@@ -1657,12 +1668,12 @@
 
 
   "//": "--- SECCIÓN WIDGETS ---",
-  "4x2": 27,
-  "2x2": 27,
-  "4x1": 27,
+  "4x2": 28,
+  "2x2": 28,
+  "4x1": 28,
   "status_4x2": {
-      "27": "new",
-      "26": "new"   
+      "28": "new",
+      "27": "new"  
   },
 
 
@@ -1780,6 +1791,7 @@
 ]
   
 }
+
 
 
 
